@@ -1,0 +1,2 @@
+struct task_struct{
+}
