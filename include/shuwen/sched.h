@@ -1,4 +1,4 @@
-struct task_struct
+struct process_struct
 {
     /* Process management */
     volatile long state; // -1 unrunnable, 0 runnable, > 0 stopped
