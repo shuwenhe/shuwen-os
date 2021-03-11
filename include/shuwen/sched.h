@@ -15,9 +15,9 @@ struct task_struct{
     int normal_prio;          // normal priority
     unsigned int rt_priority; // real time priority
 
-    /* Memory management */
+    // Memory management 
     struct mm_struct *mm;
     struct mm_struct *active_mm;
 
-    /* File management */
+    // File management 
 }
