@@ -1,0 +1,14 @@
+#!/bin/sh
+
+myvar="Hi there"
+
+echo $myvar # echo命令显示变量内容
+echo "$myvar" # echo命令显示$myvar 
+echo '$myvar' # echo命令显示$myvar 
+echo \$myvar
+
+echo Enter some text
+read myvar
+
+echo '$myvar' now equals $myvar
+exit 0
