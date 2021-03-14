@@ -1,0 +1,4 @@
+查看CentOS版本, cat(concatenate)显示、合并文件
+cat /etc/redhat-release
+proc(process)内核相关文件
+cat /proc/version

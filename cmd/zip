@@ -1,0 +1,4 @@
+解包
+unzip linux.zip
+递归打包
+zip -r linux.zip linux
