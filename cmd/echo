@@ -1,0 +1,1 @@
+echo 180000 >/proc/sys/fs/file-max
