@@ -1,0 +1,1095 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+AllDirs	Makefile	/^AllDirs := $(shell ls -R | grep '^\\.\/.*:$$' | awk '{gsub(":","");print}') . $/;"	m
+AllDirs	access/Makefile	/^AllDirs := $(shell ls -R | grep '^\\.\/.*:$$' | awk '{gsub(":","");print}') . $/;"	m
+AllDirs	alloca/Makefile	/^AllDirs := $(shell ls -R | grep '^\\.\/.*:$$' | awk '{gsub(":","");print}') . $/;"	m
+AllDirs	argc/Makefile	/^AllDirs := $(shell ls -R | grep '^\\.\/.*:$$' | awk '{gsub(":","");print}') . $/;"	m
+AllDirs	atomic_append/Makefile	/^AllDirs := $(shell ls -R | grep '^\\.\/.*:$$' | awk '{gsub(":","");print}') . $/;"	m
+AllDirs	brk/Makefile	/^AllDirs := $(shell ls -R | grep '^\\.\/.*:$$' | awk '{gsub(":","");print}') . $/;"	m
+AllDirs	calloc/Makefile	/^AllDirs := $(shell ls -R | grep '^\\.\/.*:$$' | awk '{gsub(":","");print}') . $/;"	m
+AllDirs	chmod/Makefile	/^AllDirs := $(shell ls -R | grep '^\\.\/.*:$$' | awk '{gsub(":","");print}') . $/;"	m
+AllDirs	clone/Makefile	/^AllDirs := $(shell ls -R | grep '^\\.\/.*:$$' | awk '{gsub(":","");print}') . $/;"	m
+AllDirs	clone/alloca/Makefile	/^AllDirs := $(shell ls -R | grep '^\\.\/.*:$$' | awk '{gsub(":","");print}') . $/;"	m
+AllDirs	creat-open-write-read/Makefile	/^AllDirs := $(shell ls -R | grep '^\\.\/.*:$$' | awk '{gsub(":","");print}') . $/;"	m
+AllDirs	creat/Makefile	/^AllDirs := $(shell ls -R | grep '^\\.\/.*:$$' | awk '{gsub(":","");print}') . $/;"	m
+AllDirs	current/Makefile	/^AllDirs := $(shell ls -R | grep '^\\.\/.*:$$' | awk '{gsub(":","");print}') . $/;"	m
+AllDirs	daemon/Makefile	/^AllDirs := $(shell ls -R | grep '^\\.\/.*:$$' | awk '{gsub(":","");print}') . $/;"	m
+AllDirs	dmesg/Makefile	/^AllDirs := $(shell ls -R | grep '^\\.\/.*:$$' | awk '{gsub(":","");print}') . $/;"	m
+AllDirs	epoll/Makefile	/^AllDirs := $(shell ls -R | grep '^\\.\/.*:$$' | awk '{gsub(":","");print}') . $/;"	m
+AllDirs	fcntl/Makefile	/^AllDirs := $(shell ls -R | grep '^\\.\/.*:$$' | awk '{gsub(":","");print}') . $/;"	m
+AllDirs	fgetc_fputc/Makefile	/^AllDirs := $(shell ls -R | grep '^\\.\/.*:$$' | awk '{gsub(":","");print}') . $/;"	m
+AllDirs	file_hole/Makefile	/^AllDirs := $(shell ls -R | grep '^\\.\/.*:$$' | awk '{gsub(":","");print}') . $/;"	m
+AllDirs	fileio/Makefile	/^AllDirs := $(shell ls -R | grep '^\\.\/.*:$$' | awk '{gsub(":","");print}') . $/;"	m
+AllDirs	filter/Makefile	/^AllDirs := $(shell ls -R | grep '^\\.\/.*:$$' | awk '{gsub(":","");print}') . $/;"	m
+AllDirs	fmemopen/Makefile	/^AllDirs := $(shell ls -R | grep '^\\.\/.*:$$' | awk '{gsub(":","");print}') . $/;"	m
+AllDirs	fork/Makefile	/^AllDirs := $(shell ls -R | grep '^\\.\/.*:$$' | awk '{gsub(":","");print}') . $/;"	m
+AllDirs	free/Makefile	/^AllDirs := $(shell ls -R | grep '^\\.\/.*:$$' | awk '{gsub(":","");print}') . $/;"	m
+AllDirs	getc/Makefile	/^AllDirs := $(shell ls -R | grep '^\\.\/.*:$$' | awk '{gsub(":","");print}') . $/;"	m
+AllDirs	getpid/Makefile	/^AllDirs := $(shell ls -R | grep '^\\.\/.*:$$' | awk '{gsub(":","");print}') . $/;"	m
+AllDirs	getppid/Makefile	/^AllDirs := $(shell ls -R | grep '^\\.\/.*:$$' | awk '{gsub(":","");print}') . $/;"	m
+AllDirs	kmp/Makefile	/^AllDirs := $(shell ls -R | grep '^\\.\/.*:$$' | awk '{gsub(":","");print}') . $/;"	m
+AllDirs	link/Makefile	/^AllDirs := $(shell ls -R | grep '^\\.\/.*:$$' | awk '{gsub(":","");print}') . $/;"	m
+AllDirs	list_head/Makefile	/^AllDirs := $(shell ls -R | grep '^\\.\/.*:$$' | awk '{gsub(":","");print}') . $/;"	m
+AllDirs	list_head20190301/Makefile	/^AllDirs := $(shell ls -R | grep '^\\.\/.*:$$' | awk '{gsub(":","");print}') . $/;"	m
+AllDirs	malloc/Makefile	/^AllDirs := $(shell ls -R | grep '^\\.\/.*:$$' | awk '{gsub(":","");print}') . $/;"	m
+AllDirs	memalign/Makefile	/^AllDirs := $(shell ls -R | grep '^\\.\/.*:$$' | awk '{gsub(":","");print}') . $/;"	m
+AllDirs	memcpy/Makefile	/^AllDirs := $(shell ls -R | grep '^\\.\/.*:$$' | awk '{gsub(":","");print}') . $/;"	m
+AllDirs	mkstemp/Makefile	/^AllDirs := $(shell ls -R | grep '^\\.\/.*:$$' | awk '{gsub(":","");print}') . $/;"	m
+AllDirs	mmap/Makefile	/^AllDirs := $(shell ls -R | grep '^\\.\/.*:$$' | awk '{gsub(":","");print}') . $/;"	m
+AllDirs	munmap/Makefile	/^AllDirs := $(shell ls -R | grep '^\\.\/.*:$$' | awk '{gsub(":","");print}') . $/;"	m
+AllDirs	open-read/Makefile	/^AllDirs := $(shell ls -R | grep '^\\.\/.*:$$' | awk '{gsub(":","");print}') . $/;"	m
+AllDirs	openlog/Makefile	/^AllDirs := $(shell ls -R | grep '^\\.\/.*:$$' | awk '{gsub(":","");print}') . $/;"	m
+AllDirs	poll/Makefile	/^AllDirs := $(shell ls -R | grep '^\\.\/.*:$$' | awk '{gsub(":","");print}') . $/;"	m
+AllDirs	poll/access/Makefile	/^AllDirs := $(shell ls -R | grep '^\\.\/.*:$$' | awk '{gsub(":","");print}') . $/;"	m
+AllDirs	posix_memalign/Makefile	/^AllDirs := $(shell ls -R | grep '^\\.\/.*:$$' | awk '{gsub(":","");print}') . $/;"	m
+AllDirs	printk/Makefile	/^AllDirs := $(shell ls -R | grep '^\\.\/.*:$$' | awk '{gsub(":","");print}') . $/;"	m
+AllDirs	pthread_create/Makefile	/^AllDirs := $(shell ls -R | grep '^\\.\/.*:$$' | awk '{gsub(":","");print}') . $/;"	m
+AllDirs	read/Makefile	/^AllDirs := $(shell ls -R | grep '^\\.\/.*:$$' | awk '{gsub(":","");print}') . $/;"	m
+AllDirs	realloc/Makefile	/^AllDirs := $(shell ls -R | grep '^\\.\/.*:$$' | awk '{gsub(":","");print}') . $/;"	m
+AllDirs	sbrk/Makefile	/^AllDirs := $(shell ls -R | grep '^\\.\/.*:$$' | awk '{gsub(":","");print}') . $/;"	m
+AllDirs	select/Makefile	/^AllDirs := $(shell ls -R | grep '^\\.\/.*:$$' | awk '{gsub(":","");print}') . $/;"	m
+AllDirs	setpriority/Makefile	/^AllDirs := $(shell ls -R | grep '^\\.\/.*:$$' | awk '{gsub(":","");print}') . $/;"	m
+AllDirs	setsid/Makefile	/^AllDirs := $(shell ls -R | grep '^\\.\/.*:$$' | awk '{gsub(":","");print}') . $/;"	m
+AllDirs	socket/Makefile	/^AllDirs := $(shell ls -R | grep '^\\.\/.*:$$' | awk '{gsub(":","");print}') . $/;"	m
+AllDirs	socket/cl/Makefile	/^AllDirs := $(shell ls -R | grep '^\\.\/.*:$$' | awk '{gsub(":","");print}') . $/;"	m
+AllDirs	socket/sv/Makefile	/^AllDirs := $(shell ls -R | grep '^\\.\/.*:$$' | awk '{gsub(":","");print}') . $/;"	m
+AllDirs	socket_ud_ucase/Makefile	/^AllDirs := $(shell ls -R | grep '^\\.\/.*:$$' | awk '{gsub(":","");print}') . $/;"	m
+AllDirs	socket_ud_ucase/cl/Makefile	/^AllDirs := $(shell ls -R | grep '^\\.\/.*:$$' | awk '{gsub(":","");print}') . $/;"	m
+AllDirs	socket_ud_ucase/sv/Makefile	/^AllDirs := $(shell ls -R | grep '^\\.\/.*:$$' | awk '{gsub(":","");print}') . $/;"	m
+AllDirs	strlen/Makefile	/^AllDirs := $(shell ls -R | grep '^\\.\/.*:$$' | awk '{gsub(":","");print}') . $/;"	m
+AllDirs	strncmp/Makefile	/^AllDirs := $(shell ls -R | grep '^\\.\/.*:$$' | awk '{gsub(":","");print}') . $/;"	m
+AllDirs	strstr/Makefile	/^AllDirs := $(shell ls -R | grep '^\\.\/.*:$$' | awk '{gsub(":","");print}') . $/;"	m
+AllDirs	tmpnam/Makefile	/^AllDirs := $(shell ls -R | grep '^\\.\/.*:$$' | awk '{gsub(":","");print}') . $/;"	m
+AllDirs	type_file/Makefile	/^AllDirs := $(shell ls -R | grep '^\\.\/.*:$$' | awk '{gsub(":","");print}') . $/;"	m
+AllDirs	unlink/Makefile	/^AllDirs := $(shell ls -R | grep '^\\.\/.*:$$' | awk '{gsub(":","");print}') . $/;"	m
+BACKLOG	socket/sv/sv.c	3;"	d	file:
+BACKLOG	socket_ud_ucase/sv/sv.c	3;"	d	file:
+BSZ	fmemopen/fmemopen.c	3;"	d	file:
+BUFFSIZE	fcntl/fcntl.c	3;"	d	file:
+BUFFSIZE	read/read.c	3;"	d	file:
+BUF_SIZE	creat-open-write-read/include/copy.h	6;"	d
+BUF_SIZE	fileio/include/copy.h	6;"	d
+BUF_SIZE	link/include/copy.h	6;"	d
+BUF_SIZE	open-read/include/copy.h	6;"	d
+BUF_SIZE	socket/include/sock.h	9;"	d
+BUF_SIZE	socket_ud_ucase/include/sock.h	10;"	d
+Bin	Makefile	/^Bin := o$/;"	m
+Bin	access/Makefile	/^Bin := o$/;"	m
+Bin	alloca/Makefile	/^Bin := o$/;"	m
+Bin	argc/Makefile	/^Bin := o$/;"	m
+Bin	atomic_append/Makefile	/^Bin := o$/;"	m
+Bin	brk/Makefile	/^Bin := o$/;"	m
+Bin	calloc/Makefile	/^Bin := o$/;"	m
+Bin	chmod/Makefile	/^Bin := o$/;"	m
+Bin	clone/Makefile	/^Bin := o$/;"	m
+Bin	clone/alloca/Makefile	/^Bin := o$/;"	m
+Bin	creat-open-write-read/Makefile	/^Bin := o$/;"	m
+Bin	creat/Makefile	/^Bin := o$/;"	m
+Bin	current/Makefile	/^Bin := o$/;"	m
+Bin	daemon/Makefile	/^Bin := o$/;"	m
+Bin	dmesg/Makefile	/^Bin := o$/;"	m
+Bin	epoll/Makefile	/^Bin := o$/;"	m
+Bin	fcntl/Makefile	/^Bin := o$/;"	m
+Bin	fgetc_fputc/Makefile	/^Bin := o$/;"	m
+Bin	file_hole/Makefile	/^Bin := o$/;"	m
+Bin	fileio/Makefile	/^Bin := o$/;"	m
+Bin	filter/Makefile	/^Bin := o$/;"	m
+Bin	fmemopen/Makefile	/^Bin := o$/;"	m
+Bin	fork/Makefile	/^Bin := o$/;"	m
+Bin	free/Makefile	/^Bin := o$/;"	m
+Bin	getc/Makefile	/^Bin := o$/;"	m
+Bin	getpid/Makefile	/^Bin := o$/;"	m
+Bin	getppid/Makefile	/^Bin := o$/;"	m
+Bin	kmp/Makefile	/^Bin := o$/;"	m
+Bin	link/Makefile	/^Bin := o$/;"	m
+Bin	list_head/Makefile	/^Bin := o$/;"	m
+Bin	list_head20190301/Makefile	/^Bin := o$/;"	m
+Bin	malloc/Makefile	/^Bin := o$/;"	m
+Bin	memalign/Makefile	/^Bin := o$/;"	m
+Bin	memcpy/Makefile	/^Bin := o$/;"	m
+Bin	mkstemp/Makefile	/^Bin := o$/;"	m
+Bin	mmap/Makefile	/^Bin := o$/;"	m
+Bin	munmap/Makefile	/^Bin := o$/;"	m
+Bin	open-read/Makefile	/^Bin := o$/;"	m
+Bin	openlog/Makefile	/^Bin := o$/;"	m
+Bin	poll/Makefile	/^Bin := o$/;"	m
+Bin	poll/access/Makefile	/^Bin := o$/;"	m
+Bin	posix_memalign/Makefile	/^Bin := o$/;"	m
+Bin	printk/Makefile	/^Bin := o$/;"	m
+Bin	pthread_create/Makefile	/^Bin := o$/;"	m
+Bin	read/Makefile	/^Bin := o$/;"	m
+Bin	realloc/Makefile	/^Bin := o$/;"	m
+Bin	sbrk/Makefile	/^Bin := o$/;"	m
+Bin	select/Makefile	/^Bin := o$/;"	m
+Bin	setpriority/Makefile	/^Bin := o$/;"	m
+Bin	setsid/Makefile	/^Bin := o$/;"	m
+Bin	socket/Makefile	/^Bin := o$/;"	m
+Bin	socket/cl/Makefile	/^Bin := o$/;"	m
+Bin	socket/sv/Makefile	/^Bin := o$/;"	m
+Bin	socket_ud_ucase/Makefile	/^Bin := o$/;"	m
+Bin	socket_ud_ucase/cl/Makefile	/^Bin := o$/;"	m
+Bin	socket_ud_ucase/sv/Makefile	/^Bin := o$/;"	m
+Bin	strlen/Makefile	/^Bin := o$/;"	m
+Bin	strncmp/Makefile	/^Bin := o$/;"	m
+Bin	strstr/Makefile	/^Bin := o$/;"	m
+Bin	tmpnam/Makefile	/^Bin := o$/;"	m
+Bin	type_file/Makefile	/^Bin := o$/;"	m
+Bin	unlink/Makefile	/^Bin := o$/;"	m
+CC	Makefile	/^CC = gcc $/;"	m
+CC	access/Makefile	/^CC = gcc $/;"	m
+CC	alloca/Makefile	/^CC = gcc $/;"	m
+CC	argc/Makefile	/^CC = gcc $/;"	m
+CC	atomic_append/Makefile	/^CC = gcc $/;"	m
+CC	brk/Makefile	/^CC = gcc $/;"	m
+CC	calloc/Makefile	/^CC = gcc $/;"	m
+CC	chmod/Makefile	/^CC = gcc $/;"	m
+CC	clone/Makefile	/^CC = gcc $/;"	m
+CC	clone/alloca/Makefile	/^CC = gcc $/;"	m
+CC	creat-open-write-read/Makefile	/^CC = gcc $/;"	m
+CC	creat/Makefile	/^CC = gcc $/;"	m
+CC	current/Makefile	/^CC = gcc $/;"	m
+CC	daemon/Makefile	/^CC = gcc $/;"	m
+CC	dmesg/Makefile	/^CC = gcc $/;"	m
+CC	epoll/Makefile	/^CC = gcc $/;"	m
+CC	fcntl/Makefile	/^CC = gcc $/;"	m
+CC	fgetc_fputc/Makefile	/^CC = gcc $/;"	m
+CC	file_hole/Makefile	/^CC = gcc $/;"	m
+CC	fileio/Makefile	/^CC = gcc $/;"	m
+CC	filter/Makefile	/^CC = gcc $/;"	m
+CC	fmemopen/Makefile	/^CC = gcc $/;"	m
+CC	fork/Makefile	/^CC = gcc $/;"	m
+CC	free/Makefile	/^CC = gcc $/;"	m
+CC	getc/Makefile	/^CC = gcc $/;"	m
+CC	getpid/Makefile	/^CC = gcc $/;"	m
+CC	getppid/Makefile	/^CC = gcc $/;"	m
+CC	kmp/Makefile	/^CC = gcc $/;"	m
+CC	link/Makefile	/^CC = gcc $/;"	m
+CC	list_head/Makefile	/^CC = gcc $/;"	m
+CC	list_head20190301/Makefile	/^CC = gcc $/;"	m
+CC	malloc/Makefile	/^CC = gcc $/;"	m
+CC	memalign/Makefile	/^CC = gcc $/;"	m
+CC	memcpy/Makefile	/^CC = gcc $/;"	m
+CC	mkstemp/Makefile	/^CC = gcc $/;"	m
+CC	mmap/Makefile	/^CC = gcc $/;"	m
+CC	munmap/Makefile	/^CC = gcc $/;"	m
+CC	open-read/Makefile	/^CC = gcc $/;"	m
+CC	openlog/Makefile	/^CC = gcc $/;"	m
+CC	poll/Makefile	/^CC = gcc $/;"	m
+CC	poll/access/Makefile	/^CC = gcc $/;"	m
+CC	posix_memalign/Makefile	/^CC = gcc $/;"	m
+CC	printk/Makefile	/^CC = gcc $/;"	m
+CC	pthread_create/Makefile	/^CC = gcc $/;"	m
+CC	read/Makefile	/^CC = gcc $/;"	m
+CC	realloc/Makefile	/^CC = gcc $/;"	m
+CC	sbrk/Makefile	/^CC = gcc $/;"	m
+CC	select/Makefile	/^CC = gcc $/;"	m
+CC	setpriority/Makefile	/^CC = gcc $/;"	m
+CC	setsid/Makefile	/^CC = gcc $/;"	m
+CC	socket/Makefile	/^CC = gcc $/;"	m
+CC	socket/cl/Makefile	/^CC = gcc $/;"	m
+CC	socket/sv/Makefile	/^CC = gcc $/;"	m
+CC	socket_ud_ucase/Makefile	/^CC = gcc $/;"	m
+CC	socket_ud_ucase/cl/Makefile	/^CC = gcc $/;"	m
+CC	socket_ud_ucase/sv/Makefile	/^CC = gcc $/;"	m
+CC	strlen/Makefile	/^CC = gcc $/;"	m
+CC	strncmp/Makefile	/^CC = gcc $/;"	m
+CC	strstr/Makefile	/^CC = gcc $/;"	m
+CC	tmpnam/Makefile	/^CC = gcc $/;"	m
+CC	type_file/Makefile	/^CC = gcc $/;"	m
+CC	unlink/Makefile	/^CC = gcc $/;"	m
+CPPFLAGS	Makefile	/^CPPFLAGS = $(foreach n,$(AllDirs) , -I$(n)) $/;"	m
+CPPFLAGS	access/Makefile	/^CPPFLAGS = $(foreach n,$(AllDirs) , -I$(n)) $/;"	m
+CPPFLAGS	alloca/Makefile	/^CPPFLAGS = $(foreach n,$(AllDirs) , -I$(n)) $/;"	m
+CPPFLAGS	argc/Makefile	/^CPPFLAGS = $(foreach n,$(AllDirs) , -I$(n)) $/;"	m
+CPPFLAGS	atomic_append/Makefile	/^CPPFLAGS = $(foreach n,$(AllDirs) , -I$(n)) $/;"	m
+CPPFLAGS	brk/Makefile	/^CPPFLAGS = $(foreach n,$(AllDirs) , -I$(n)) $/;"	m
+CPPFLAGS	calloc/Makefile	/^CPPFLAGS = $(foreach n,$(AllDirs) , -I$(n)) $/;"	m
+CPPFLAGS	chmod/Makefile	/^CPPFLAGS = $(foreach n,$(AllDirs) , -I$(n)) $/;"	m
+CPPFLAGS	clone/Makefile	/^CPPFLAGS = $(foreach n,$(AllDirs) , -I$(n)) $/;"	m
+CPPFLAGS	clone/alloca/Makefile	/^CPPFLAGS = $(foreach n,$(AllDirs) , -I$(n)) $/;"	m
+CPPFLAGS	creat-open-write-read/Makefile	/^CPPFLAGS = $(foreach n,$(AllDirs) , -I$(n)) $/;"	m
+CPPFLAGS	creat/Makefile	/^CPPFLAGS = $(foreach n,$(AllDirs) , -I$(n)) $/;"	m
+CPPFLAGS	current/Makefile	/^CPPFLAGS = $(foreach n,$(AllDirs) , -I$(n)) $/;"	m
+CPPFLAGS	daemon/Makefile	/^CPPFLAGS = $(foreach n,$(AllDirs) , -I$(n)) $/;"	m
+CPPFLAGS	dmesg/Makefile	/^CPPFLAGS = $(foreach n,$(AllDirs) , -I$(n)) $/;"	m
+CPPFLAGS	epoll/Makefile	/^CPPFLAGS = $(foreach n,$(AllDirs) , -I$(n)) $/;"	m
+CPPFLAGS	fcntl/Makefile	/^CPPFLAGS = $(foreach n,$(AllDirs) , -I$(n)) $/;"	m
+CPPFLAGS	fgetc_fputc/Makefile	/^CPPFLAGS = $(foreach n,$(AllDirs) , -I$(n)) $/;"	m
+CPPFLAGS	file_hole/Makefile	/^CPPFLAGS = $(foreach n,$(AllDirs) , -I$(n)) $/;"	m
+CPPFLAGS	fileio/Makefile	/^CPPFLAGS = $(foreach n,$(AllDirs) , -I$(n)) $/;"	m
+CPPFLAGS	filter/Makefile	/^CPPFLAGS = $(foreach n,$(AllDirs) , -I$(n)) $/;"	m
+CPPFLAGS	fmemopen/Makefile	/^CPPFLAGS = $(foreach n,$(AllDirs) , -I$(n)) $/;"	m
+CPPFLAGS	fork/Makefile	/^CPPFLAGS = $(foreach n,$(AllDirs) , -I$(n)) $/;"	m
+CPPFLAGS	free/Makefile	/^CPPFLAGS = $(foreach n,$(AllDirs) , -I$(n)) $/;"	m
+CPPFLAGS	getc/Makefile	/^CPPFLAGS = $(foreach n,$(AllDirs) , -I$(n)) $/;"	m
+CPPFLAGS	getpid/Makefile	/^CPPFLAGS = $(foreach n,$(AllDirs) , -I$(n)) $/;"	m
+CPPFLAGS	getppid/Makefile	/^CPPFLAGS = $(foreach n,$(AllDirs) , -I$(n)) $/;"	m
+CPPFLAGS	kmp/Makefile	/^CPPFLAGS = $(foreach n,$(AllDirs) , -I$(n)) $/;"	m
+CPPFLAGS	link/Makefile	/^CPPFLAGS = $(foreach n,$(AllDirs) , -I$(n)) $/;"	m
+CPPFLAGS	list_head/Makefile	/^CPPFLAGS = $(foreach n,$(AllDirs) , -I$(n)) $/;"	m
+CPPFLAGS	list_head20190301/Makefile	/^CPPFLAGS = $(foreach n,$(AllDirs) , -I$(n)) $/;"	m
+CPPFLAGS	malloc/Makefile	/^CPPFLAGS = $(foreach n,$(AllDirs) , -I$(n)) $/;"	m
+CPPFLAGS	memalign/Makefile	/^CPPFLAGS = $(foreach n,$(AllDirs) , -I$(n)) $/;"	m
+CPPFLAGS	memcpy/Makefile	/^CPPFLAGS = $(foreach n,$(AllDirs) , -I$(n)) $/;"	m
+CPPFLAGS	mkstemp/Makefile	/^CPPFLAGS = $(foreach n,$(AllDirs) , -I$(n)) $/;"	m
+CPPFLAGS	mmap/Makefile	/^CPPFLAGS = $(foreach n,$(AllDirs) , -I$(n)) $/;"	m
+CPPFLAGS	munmap/Makefile	/^CPPFLAGS = $(foreach n,$(AllDirs) , -I$(n)) $/;"	m
+CPPFLAGS	open-read/Makefile	/^CPPFLAGS = $(foreach n,$(AllDirs) , -I$(n)) $/;"	m
+CPPFLAGS	openlog/Makefile	/^CPPFLAGS = $(foreach n,$(AllDirs) , -I$(n)) $/;"	m
+CPPFLAGS	poll/Makefile	/^CPPFLAGS = $(foreach n,$(AllDirs) , -I$(n)) $/;"	m
+CPPFLAGS	poll/access/Makefile	/^CPPFLAGS = $(foreach n,$(AllDirs) , -I$(n)) $/;"	m
+CPPFLAGS	posix_memalign/Makefile	/^CPPFLAGS = $(foreach n,$(AllDirs) , -I$(n)) $/;"	m
+CPPFLAGS	printk/Makefile	/^CPPFLAGS = $(foreach n,$(AllDirs) , -I$(n)) $/;"	m
+CPPFLAGS	pthread_create/Makefile	/^CPPFLAGS = $(foreach n,$(AllDirs) , -I$(n)) $/;"	m
+CPPFLAGS	read/Makefile	/^CPPFLAGS = $(foreach n,$(AllDirs) , -I$(n)) $/;"	m
+CPPFLAGS	realloc/Makefile	/^CPPFLAGS = $(foreach n,$(AllDirs) , -I$(n)) $/;"	m
+CPPFLAGS	sbrk/Makefile	/^CPPFLAGS = $(foreach n,$(AllDirs) , -I$(n)) $/;"	m
+CPPFLAGS	select/Makefile	/^CPPFLAGS = $(foreach n,$(AllDirs) , -I$(n)) $/;"	m
+CPPFLAGS	setpriority/Makefile	/^CPPFLAGS = $(foreach n,$(AllDirs) , -I$(n)) $/;"	m
+CPPFLAGS	setsid/Makefile	/^CPPFLAGS = $(foreach n,$(AllDirs) , -I$(n)) $/;"	m
+CPPFLAGS	socket/Makefile	/^CPPFLAGS = $(foreach n,$(AllDirs) , -I$(n)) $/;"	m
+CPPFLAGS	socket/cl/Makefile	/^CPPFLAGS = $(foreach n,$(AllDirs) , -I$(n)) $/;"	m
+CPPFLAGS	socket/sv/Makefile	/^CPPFLAGS = $(foreach n,$(AllDirs) , -I$(n)) $/;"	m
+CPPFLAGS	socket_ud_ucase/Makefile	/^CPPFLAGS = $(foreach n,$(AllDirs) , -I$(n)) $/;"	m
+CPPFLAGS	socket_ud_ucase/cl/Makefile	/^CPPFLAGS = $(foreach n,$(AllDirs) , -I$(n)) $/;"	m
+CPPFLAGS	socket_ud_ucase/sv/Makefile	/^CPPFLAGS = $(foreach n,$(AllDirs) , -I$(n)) $/;"	m
+CPPFLAGS	strlen/Makefile	/^CPPFLAGS = $(foreach n,$(AllDirs) , -I$(n)) $/;"	m
+CPPFLAGS	strncmp/Makefile	/^CPPFLAGS = $(foreach n,$(AllDirs) , -I$(n)) $/;"	m
+CPPFLAGS	strstr/Makefile	/^CPPFLAGS = $(foreach n,$(AllDirs) , -I$(n)) $/;"	m
+CPPFLAGS	tmpnam/Makefile	/^CPPFLAGS = $(foreach n,$(AllDirs) , -I$(n)) $/;"	m
+CPPFLAGS	type_file/Makefile	/^CPPFLAGS = $(foreach n,$(AllDirs) , -I$(n)) $/;"	m
+CPPFLAGS	unlink/Makefile	/^CPPFLAGS = $(foreach n,$(AllDirs) , -I$(n)) $/;"	m
+CXX	Makefile	/^CXX = g++ $/;"	m
+CXX	access/Makefile	/^CXX = g++ $/;"	m
+CXX	alloca/Makefile	/^CXX = g++ $/;"	m
+CXX	argc/Makefile	/^CXX = g++ $/;"	m
+CXX	atomic_append/Makefile	/^CXX = g++ $/;"	m
+CXX	brk/Makefile	/^CXX = g++ $/;"	m
+CXX	calloc/Makefile	/^CXX = g++ $/;"	m
+CXX	chmod/Makefile	/^CXX = g++ $/;"	m
+CXX	clone/Makefile	/^CXX = g++ $/;"	m
+CXX	clone/alloca/Makefile	/^CXX = g++ $/;"	m
+CXX	creat-open-write-read/Makefile	/^CXX = g++ $/;"	m
+CXX	creat/Makefile	/^CXX = g++ $/;"	m
+CXX	current/Makefile	/^CXX = g++ $/;"	m
+CXX	daemon/Makefile	/^CXX = g++ $/;"	m
+CXX	dmesg/Makefile	/^CXX = g++ $/;"	m
+CXX	epoll/Makefile	/^CXX = g++ $/;"	m
+CXX	fcntl/Makefile	/^CXX = g++ $/;"	m
+CXX	fgetc_fputc/Makefile	/^CXX = g++ $/;"	m
+CXX	file_hole/Makefile	/^CXX = g++ $/;"	m
+CXX	fileio/Makefile	/^CXX = g++ $/;"	m
+CXX	filter/Makefile	/^CXX = g++ $/;"	m
+CXX	fmemopen/Makefile	/^CXX = g++ $/;"	m
+CXX	fork/Makefile	/^CXX = g++ $/;"	m
+CXX	free/Makefile	/^CXX = g++ $/;"	m
+CXX	getc/Makefile	/^CXX = g++ $/;"	m
+CXX	getpid/Makefile	/^CXX = g++ $/;"	m
+CXX	getppid/Makefile	/^CXX = g++ $/;"	m
+CXX	kmp/Makefile	/^CXX = g++ $/;"	m
+CXX	link/Makefile	/^CXX = g++ $/;"	m
+CXX	list_head/Makefile	/^CXX = g++ $/;"	m
+CXX	list_head20190301/Makefile	/^CXX = g++ $/;"	m
+CXX	malloc/Makefile	/^CXX = g++ $/;"	m
+CXX	memalign/Makefile	/^CXX = g++ $/;"	m
+CXX	memcpy/Makefile	/^CXX = g++ $/;"	m
+CXX	mkstemp/Makefile	/^CXX = g++ $/;"	m
+CXX	mmap/Makefile	/^CXX = g++ $/;"	m
+CXX	munmap/Makefile	/^CXX = g++ $/;"	m
+CXX	open-read/Makefile	/^CXX = g++ $/;"	m
+CXX	openlog/Makefile	/^CXX = g++ $/;"	m
+CXX	poll/Makefile	/^CXX = g++ $/;"	m
+CXX	poll/access/Makefile	/^CXX = g++ $/;"	m
+CXX	posix_memalign/Makefile	/^CXX = g++ $/;"	m
+CXX	printk/Makefile	/^CXX = g++ $/;"	m
+CXX	pthread_create/Makefile	/^CXX = g++ $/;"	m
+CXX	read/Makefile	/^CXX = g++ $/;"	m
+CXX	realloc/Makefile	/^CXX = g++ $/;"	m
+CXX	sbrk/Makefile	/^CXX = g++ $/;"	m
+CXX	select/Makefile	/^CXX = g++ $/;"	m
+CXX	setpriority/Makefile	/^CXX = g++ $/;"	m
+CXX	setsid/Makefile	/^CXX = g++ $/;"	m
+CXX	socket/Makefile	/^CXX = g++ $/;"	m
+CXX	socket/cl/Makefile	/^CXX = g++ $/;"	m
+CXX	socket/sv/Makefile	/^CXX = g++ $/;"	m
+CXX	socket_ud_ucase/Makefile	/^CXX = g++ $/;"	m
+CXX	socket_ud_ucase/cl/Makefile	/^CXX = g++ $/;"	m
+CXX	socket_ud_ucase/sv/Makefile	/^CXX = g++ $/;"	m
+CXX	strlen/Makefile	/^CXX = g++ $/;"	m
+CXX	strncmp/Makefile	/^CXX = g++ $/;"	m
+CXX	strstr/Makefile	/^CXX = g++ $/;"	m
+CXX	tmpnam/Makefile	/^CXX = g++ $/;"	m
+CXX	type_file/Makefile	/^CXX = g++ $/;"	m
+CXX	unlink/Makefile	/^CXX = g++ $/;"	m
+CXXFLAGS	Makefile	/^CXXFLAGS = -g -Wall $/;"	m
+CXXFLAGS	access/Makefile	/^CXXFLAGS = -g -Wall $/;"	m
+CXXFLAGS	alloca/Makefile	/^CXXFLAGS = -g -Wall $/;"	m
+CXXFLAGS	argc/Makefile	/^CXXFLAGS = -g -Wall $/;"	m
+CXXFLAGS	atomic_append/Makefile	/^CXXFLAGS = -g -Wall $/;"	m
+CXXFLAGS	brk/Makefile	/^CXXFLAGS = -g -Wall $/;"	m
+CXXFLAGS	calloc/Makefile	/^CXXFLAGS = -g -Wall $/;"	m
+CXXFLAGS	chmod/Makefile	/^CXXFLAGS = -g -Wall $/;"	m
+CXXFLAGS	clone/Makefile	/^CXXFLAGS = -g -Wall $/;"	m
+CXXFLAGS	clone/alloca/Makefile	/^CXXFLAGS = -g -Wall $/;"	m
+CXXFLAGS	creat-open-write-read/Makefile	/^CXXFLAGS = -g -Wall $/;"	m
+CXXFLAGS	creat/Makefile	/^CXXFLAGS = -g -Wall $/;"	m
+CXXFLAGS	current/Makefile	/^CXXFLAGS = -g -Wall $/;"	m
+CXXFLAGS	daemon/Makefile	/^CXXFLAGS = -g -Wall $/;"	m
+CXXFLAGS	dmesg/Makefile	/^CXXFLAGS = -g -Wall $/;"	m
+CXXFLAGS	epoll/Makefile	/^CXXFLAGS = -g -Wall $/;"	m
+CXXFLAGS	fcntl/Makefile	/^CXXFLAGS = -g -Wall $/;"	m
+CXXFLAGS	fgetc_fputc/Makefile	/^CXXFLAGS = -g -Wall $/;"	m
+CXXFLAGS	file_hole/Makefile	/^CXXFLAGS = -g -Wall $/;"	m
+CXXFLAGS	fileio/Makefile	/^CXXFLAGS = -g -Wall $/;"	m
+CXXFLAGS	filter/Makefile	/^CXXFLAGS = -g -Wall $/;"	m
+CXXFLAGS	fmemopen/Makefile	/^CXXFLAGS = -g -Wall $/;"	m
+CXXFLAGS	fork/Makefile	/^CXXFLAGS = -g -Wall $/;"	m
+CXXFLAGS	free/Makefile	/^CXXFLAGS = -g -Wall $/;"	m
+CXXFLAGS	getc/Makefile	/^CXXFLAGS = -g -Wall $/;"	m
+CXXFLAGS	getpid/Makefile	/^CXXFLAGS = -g -Wall $/;"	m
+CXXFLAGS	getppid/Makefile	/^CXXFLAGS = -g -Wall $/;"	m
+CXXFLAGS	kmp/Makefile	/^CXXFLAGS = -g -Wall $/;"	m
+CXXFLAGS	link/Makefile	/^CXXFLAGS = -g -Wall $/;"	m
+CXXFLAGS	list_head/Makefile	/^CXXFLAGS = -g -Wall $/;"	m
+CXXFLAGS	list_head20190301/Makefile	/^CXXFLAGS = -g -Wall $/;"	m
+CXXFLAGS	malloc/Makefile	/^CXXFLAGS = -g -Wall $/;"	m
+CXXFLAGS	memalign/Makefile	/^CXXFLAGS = -g -Wall $/;"	m
+CXXFLAGS	memcpy/Makefile	/^CXXFLAGS = -g -Wall $/;"	m
+CXXFLAGS	mkstemp/Makefile	/^CXXFLAGS = -g -Wall $/;"	m
+CXXFLAGS	mmap/Makefile	/^CXXFLAGS = -g -Wall $/;"	m
+CXXFLAGS	munmap/Makefile	/^CXXFLAGS = -g -Wall $/;"	m
+CXXFLAGS	open-read/Makefile	/^CXXFLAGS = -g -Wall $/;"	m
+CXXFLAGS	openlog/Makefile	/^CXXFLAGS = -g -Wall $/;"	m
+CXXFLAGS	poll/Makefile	/^CXXFLAGS = -g -Wall $/;"	m
+CXXFLAGS	poll/access/Makefile	/^CXXFLAGS = -g -Wall $/;"	m
+CXXFLAGS	posix_memalign/Makefile	/^CXXFLAGS = -g -Wall $/;"	m
+CXXFLAGS	printk/Makefile	/^CXXFLAGS = -g -Wall $/;"	m
+CXXFLAGS	pthread_create/Makefile	/^CXXFLAGS = -g -Wall $/;"	m
+CXXFLAGS	read/Makefile	/^CXXFLAGS = -g -Wall $/;"	m
+CXXFLAGS	realloc/Makefile	/^CXXFLAGS = -g -Wall $/;"	m
+CXXFLAGS	sbrk/Makefile	/^CXXFLAGS = -g -Wall $/;"	m
+CXXFLAGS	select/Makefile	/^CXXFLAGS = -g -Wall $/;"	m
+CXXFLAGS	setpriority/Makefile	/^CXXFLAGS = -g -Wall $/;"	m
+CXXFLAGS	setsid/Makefile	/^CXXFLAGS = -g -Wall $/;"	m
+CXXFLAGS	socket/Makefile	/^CXXFLAGS = -g -Wall $/;"	m
+CXXFLAGS	socket/cl/Makefile	/^CXXFLAGS = -g -Wall $/;"	m
+CXXFLAGS	socket/sv/Makefile	/^CXXFLAGS = -g -Wall $/;"	m
+CXXFLAGS	socket_ud_ucase/Makefile	/^CXXFLAGS = -g -Wall $/;"	m
+CXXFLAGS	socket_ud_ucase/cl/Makefile	/^CXXFLAGS = -g -Wall $/;"	m
+CXXFLAGS	socket_ud_ucase/sv/Makefile	/^CXXFLAGS = -g -Wall $/;"	m
+CXXFLAGS	strlen/Makefile	/^CXXFLAGS = -g -Wall $/;"	m
+CXXFLAGS	strncmp/Makefile	/^CXXFLAGS = -g -Wall $/;"	m
+CXXFLAGS	strstr/Makefile	/^CXXFLAGS = -g -Wall $/;"	m
+CXXFLAGS	tmpnam/Makefile	/^CXXFLAGS = -g -Wall $/;"	m
+CXXFLAGS	type_file/Makefile	/^CXXFLAGS = -g -Wall $/;"	m
+CXXFLAGS	unlink/Makefile	/^CXXFLAGS = -g -Wall $/;"	m
+Deps	Makefile	/^Deps := $(patsubst %.c,%.d, $(Sources)) $/;"	m
+Deps	access/Makefile	/^Deps := $(patsubst %.c,%.d, $(Sources)) $/;"	m
+Deps	alloca/Makefile	/^Deps := $(patsubst %.c,%.d, $(Sources)) $/;"	m
+Deps	argc/Makefile	/^Deps := $(patsubst %.c,%.d, $(Sources)) $/;"	m
+Deps	atomic_append/Makefile	/^Deps := $(patsubst %.c,%.d, $(Sources)) $/;"	m
+Deps	brk/Makefile	/^Deps := $(patsubst %.c,%.d, $(Sources)) $/;"	m
+Deps	calloc/Makefile	/^Deps := $(patsubst %.c,%.d, $(Sources)) $/;"	m
+Deps	chmod/Makefile	/^Deps := $(patsubst %.c,%.d, $(Sources)) $/;"	m
+Deps	clone/Makefile	/^Deps := $(patsubst %.c,%.d, $(Sources)) $/;"	m
+Deps	clone/alloca/Makefile	/^Deps := $(patsubst %.c,%.d, $(Sources)) $/;"	m
+Deps	creat-open-write-read/Makefile	/^Deps := $(patsubst %.c,%.d, $(Sources)) $/;"	m
+Deps	creat/Makefile	/^Deps := $(patsubst %.c,%.d, $(Sources)) $/;"	m
+Deps	current/Makefile	/^Deps := $(patsubst %.c,%.d, $(Sources)) $/;"	m
+Deps	daemon/Makefile	/^Deps := $(patsubst %.c,%.d, $(Sources)) $/;"	m
+Deps	dmesg/Makefile	/^Deps := $(patsubst %.c,%.d, $(Sources)) $/;"	m
+Deps	epoll/Makefile	/^Deps := $(patsubst %.c,%.d, $(Sources)) $/;"	m
+Deps	fcntl/Makefile	/^Deps := $(patsubst %.c,%.d, $(Sources)) $/;"	m
+Deps	fgetc_fputc/Makefile	/^Deps := $(patsubst %.c,%.d, $(Sources)) $/;"	m
+Deps	file_hole/Makefile	/^Deps := $(patsubst %.c,%.d, $(Sources)) $/;"	m
+Deps	fileio/Makefile	/^Deps := $(patsubst %.c,%.d, $(Sources)) $/;"	m
+Deps	filter/Makefile	/^Deps := $(patsubst %.c,%.d, $(Sources)) $/;"	m
+Deps	fmemopen/Makefile	/^Deps := $(patsubst %.c,%.d, $(Sources)) $/;"	m
+Deps	fork/Makefile	/^Deps := $(patsubst %.c,%.d, $(Sources)) $/;"	m
+Deps	free/Makefile	/^Deps := $(patsubst %.c,%.d, $(Sources)) $/;"	m
+Deps	getc/Makefile	/^Deps := $(patsubst %.c,%.d, $(Sources)) $/;"	m
+Deps	getpid/Makefile	/^Deps := $(patsubst %.c,%.d, $(Sources)) $/;"	m
+Deps	getppid/Makefile	/^Deps := $(patsubst %.c,%.d, $(Sources)) $/;"	m
+Deps	kmp/Makefile	/^Deps := $(patsubst %.c,%.d, $(Sources)) $/;"	m
+Deps	link/Makefile	/^Deps := $(patsubst %.c,%.d, $(Sources)) $/;"	m
+Deps	list_head/Makefile	/^Deps := $(patsubst %.c,%.d, $(Sources)) $/;"	m
+Deps	list_head20190301/Makefile	/^Deps := $(patsubst %.c,%.d, $(Sources)) $/;"	m
+Deps	malloc/Makefile	/^Deps := $(patsubst %.c,%.d, $(Sources)) $/;"	m
+Deps	memalign/Makefile	/^Deps := $(patsubst %.c,%.d, $(Sources)) $/;"	m
+Deps	memcpy/Makefile	/^Deps := $(patsubst %.c,%.d, $(Sources)) $/;"	m
+Deps	mkstemp/Makefile	/^Deps := $(patsubst %.c,%.d, $(Sources)) $/;"	m
+Deps	mmap/Makefile	/^Deps := $(patsubst %.c,%.d, $(Sources)) $/;"	m
+Deps	munmap/Makefile	/^Deps := $(patsubst %.c,%.d, $(Sources)) $/;"	m
+Deps	open-read/Makefile	/^Deps := $(patsubst %.c,%.d, $(Sources)) $/;"	m
+Deps	openlog/Makefile	/^Deps := $(patsubst %.c,%.d, $(Sources)) $/;"	m
+Deps	poll/Makefile	/^Deps := $(patsubst %.c,%.d, $(Sources)) $/;"	m
+Deps	poll/access/Makefile	/^Deps := $(patsubst %.c,%.d, $(Sources)) $/;"	m
+Deps	posix_memalign/Makefile	/^Deps := $(patsubst %.c,%.d, $(Sources)) $/;"	m
+Deps	printk/Makefile	/^Deps := $(patsubst %.c,%.d, $(Sources)) $/;"	m
+Deps	pthread_create/Makefile	/^Deps := $(patsubst %.c,%.d, $(Sources)) $/;"	m
+Deps	read/Makefile	/^Deps := $(patsubst %.c,%.d, $(Sources)) $/;"	m
+Deps	realloc/Makefile	/^Deps := $(patsubst %.c,%.d, $(Sources)) $/;"	m
+Deps	sbrk/Makefile	/^Deps := $(patsubst %.c,%.d, $(Sources)) $/;"	m
+Deps	select/Makefile	/^Deps := $(patsubst %.c,%.d, $(Sources)) $/;"	m
+Deps	setpriority/Makefile	/^Deps := $(patsubst %.c,%.d, $(Sources)) $/;"	m
+Deps	setsid/Makefile	/^Deps := $(patsubst %.c,%.d, $(Sources)) $/;"	m
+Deps	socket/Makefile	/^Deps := $(patsubst %.c,%.d, $(Sources)) $/;"	m
+Deps	socket/cl/Makefile	/^Deps := $(patsubst %.c,%.d, $(Sources)) $/;"	m
+Deps	socket/sv/Makefile	/^Deps := $(patsubst %.c,%.d, $(Sources)) $/;"	m
+Deps	socket_ud_ucase/Makefile	/^Deps := $(patsubst %.c,%.d, $(Sources)) $/;"	m
+Deps	socket_ud_ucase/cl/Makefile	/^Deps := $(patsubst %.c,%.d, $(Sources)) $/;"	m
+Deps	socket_ud_ucase/sv/Makefile	/^Deps := $(patsubst %.c,%.d, $(Sources)) $/;"	m
+Deps	strlen/Makefile	/^Deps := $(patsubst %.c,%.d, $(Sources)) $/;"	m
+Deps	strncmp/Makefile	/^Deps := $(patsubst %.c,%.d, $(Sources)) $/;"	m
+Deps	strstr/Makefile	/^Deps := $(patsubst %.c,%.d, $(Sources)) $/;"	m
+Deps	tmpnam/Makefile	/^Deps := $(patsubst %.c,%.d, $(Sources)) $/;"	m
+Deps	type_file/Makefile	/^Deps := $(patsubst %.c,%.d, $(Sources)) $/;"	m
+Deps	unlink/Makefile	/^Deps := $(patsubst %.c,%.d, $(Sources)) $/;"	m
+DynamicLib	Makefile	/^DynamicLib := libyy.so $/;"	m
+DynamicLib	access/Makefile	/^DynamicLib := libyy.so $/;"	m
+DynamicLib	alloca/Makefile	/^DynamicLib := libyy.so $/;"	m
+DynamicLib	argc/Makefile	/^DynamicLib := libyy.so $/;"	m
+DynamicLib	atomic_append/Makefile	/^DynamicLib := libyy.so $/;"	m
+DynamicLib	brk/Makefile	/^DynamicLib := libyy.so $/;"	m
+DynamicLib	calloc/Makefile	/^DynamicLib := libyy.so $/;"	m
+DynamicLib	chmod/Makefile	/^DynamicLib := libyy.so $/;"	m
+DynamicLib	clone/Makefile	/^DynamicLib := libyy.so $/;"	m
+DynamicLib	clone/alloca/Makefile	/^DynamicLib := libyy.so $/;"	m
+DynamicLib	creat-open-write-read/Makefile	/^DynamicLib := libyy.so $/;"	m
+DynamicLib	creat/Makefile	/^DynamicLib := libyy.so $/;"	m
+DynamicLib	current/Makefile	/^DynamicLib := libyy.so $/;"	m
+DynamicLib	daemon/Makefile	/^DynamicLib := libyy.so $/;"	m
+DynamicLib	dmesg/Makefile	/^DynamicLib := libyy.so $/;"	m
+DynamicLib	epoll/Makefile	/^DynamicLib := libyy.so $/;"	m
+DynamicLib	fcntl/Makefile	/^DynamicLib := libyy.so $/;"	m
+DynamicLib	fgetc_fputc/Makefile	/^DynamicLib := libyy.so $/;"	m
+DynamicLib	file_hole/Makefile	/^DynamicLib := libyy.so $/;"	m
+DynamicLib	fileio/Makefile	/^DynamicLib := libyy.so $/;"	m
+DynamicLib	filter/Makefile	/^DynamicLib := libyy.so $/;"	m
+DynamicLib	fmemopen/Makefile	/^DynamicLib := libyy.so $/;"	m
+DynamicLib	fork/Makefile	/^DynamicLib := libyy.so $/;"	m
+DynamicLib	free/Makefile	/^DynamicLib := libyy.so $/;"	m
+DynamicLib	getc/Makefile	/^DynamicLib := libyy.so $/;"	m
+DynamicLib	getpid/Makefile	/^DynamicLib := libyy.so $/;"	m
+DynamicLib	getppid/Makefile	/^DynamicLib := libyy.so $/;"	m
+DynamicLib	kmp/Makefile	/^DynamicLib := libyy.so $/;"	m
+DynamicLib	link/Makefile	/^DynamicLib := libyy.so $/;"	m
+DynamicLib	list_head/Makefile	/^DynamicLib := libyy.so $/;"	m
+DynamicLib	list_head20190301/Makefile	/^DynamicLib := libyy.so $/;"	m
+DynamicLib	malloc/Makefile	/^DynamicLib := libyy.so $/;"	m
+DynamicLib	memalign/Makefile	/^DynamicLib := libyy.so $/;"	m
+DynamicLib	memcpy/Makefile	/^DynamicLib := libyy.so $/;"	m
+DynamicLib	mkstemp/Makefile	/^DynamicLib := libyy.so $/;"	m
+DynamicLib	mmap/Makefile	/^DynamicLib := libyy.so $/;"	m
+DynamicLib	munmap/Makefile	/^DynamicLib := libyy.so $/;"	m
+DynamicLib	open-read/Makefile	/^DynamicLib := libyy.so $/;"	m
+DynamicLib	openlog/Makefile	/^DynamicLib := libyy.so $/;"	m
+DynamicLib	poll/Makefile	/^DynamicLib := libyy.so $/;"	m
+DynamicLib	poll/access/Makefile	/^DynamicLib := libyy.so $/;"	m
+DynamicLib	posix_memalign/Makefile	/^DynamicLib := libyy.so $/;"	m
+DynamicLib	printk/Makefile	/^DynamicLib := libyy.so $/;"	m
+DynamicLib	pthread_create/Makefile	/^DynamicLib := libyy.so $/;"	m
+DynamicLib	read/Makefile	/^DynamicLib := libyy.so $/;"	m
+DynamicLib	realloc/Makefile	/^DynamicLib := libyy.so $/;"	m
+DynamicLib	sbrk/Makefile	/^DynamicLib := libyy.so $/;"	m
+DynamicLib	select/Makefile	/^DynamicLib := libyy.so $/;"	m
+DynamicLib	setpriority/Makefile	/^DynamicLib := libyy.so $/;"	m
+DynamicLib	setsid/Makefile	/^DynamicLib := libyy.so $/;"	m
+DynamicLib	socket/Makefile	/^DynamicLib := libyy.so $/;"	m
+DynamicLib	socket/cl/Makefile	/^DynamicLib := libyy.so $/;"	m
+DynamicLib	socket/sv/Makefile	/^DynamicLib := libyy.so $/;"	m
+DynamicLib	socket_ud_ucase/Makefile	/^DynamicLib := libyy.so $/;"	m
+DynamicLib	socket_ud_ucase/cl/Makefile	/^DynamicLib := libyy.so $/;"	m
+DynamicLib	socket_ud_ucase/sv/Makefile	/^DynamicLib := libyy.so $/;"	m
+DynamicLib	strlen/Makefile	/^DynamicLib := libyy.so $/;"	m
+DynamicLib	strncmp/Makefile	/^DynamicLib := libyy.so $/;"	m
+DynamicLib	strstr/Makefile	/^DynamicLib := libyy.so $/;"	m
+DynamicLib	tmpnam/Makefile	/^DynamicLib := libyy.so $/;"	m
+DynamicLib	type_file/Makefile	/^DynamicLib := libyy.so $/;"	m
+DynamicLib	unlink/Makefile	/^DynamicLib := libyy.so $/;"	m
+HELL	Makefile	/^HELL = \/bin\/bash$/;"	m
+HELL	access/Makefile	/^HELL = \/bin\/bash$/;"	m
+HELL	alloca/Makefile	/^HELL = \/bin\/bash$/;"	m
+HELL	argc/Makefile	/^HELL = \/bin\/bash$/;"	m
+HELL	atomic_append/Makefile	/^HELL = \/bin\/bash$/;"	m
+HELL	brk/Makefile	/^HELL = \/bin\/bash$/;"	m
+HELL	calloc/Makefile	/^HELL = \/bin\/bash$/;"	m
+HELL	chmod/Makefile	/^HELL = \/bin\/bash$/;"	m
+HELL	clone/Makefile	/^HELL = \/bin\/bash$/;"	m
+HELL	clone/alloca/Makefile	/^HELL = \/bin\/bash$/;"	m
+HELL	creat-open-write-read/Makefile	/^HELL = \/bin\/bash$/;"	m
+HELL	creat/Makefile	/^HELL = \/bin\/bash$/;"	m
+HELL	current/Makefile	/^HELL = \/bin\/bash$/;"	m
+HELL	daemon/Makefile	/^HELL = \/bin\/bash$/;"	m
+HELL	dmesg/Makefile	/^HELL = \/bin\/bash$/;"	m
+HELL	epoll/Makefile	/^HELL = \/bin\/bash$/;"	m
+HELL	fcntl/Makefile	/^HELL = \/bin\/bash$/;"	m
+HELL	fgetc_fputc/Makefile	/^HELL = \/bin\/bash$/;"	m
+HELL	file_hole/Makefile	/^HELL = \/bin\/bash$/;"	m
+HELL	fileio/Makefile	/^HELL = \/bin\/bash$/;"	m
+HELL	filter/Makefile	/^HELL = \/bin\/bash$/;"	m
+HELL	fmemopen/Makefile	/^HELL = \/bin\/bash$/;"	m
+HELL	fork/Makefile	/^HELL = \/bin\/bash$/;"	m
+HELL	free/Makefile	/^HELL = \/bin\/bash$/;"	m
+HELL	getc/Makefile	/^HELL = \/bin\/bash$/;"	m
+HELL	getpid/Makefile	/^HELL = \/bin\/bash$/;"	m
+HELL	getppid/Makefile	/^HELL = \/bin\/bash$/;"	m
+HELL	kmp/Makefile	/^HELL = \/bin\/bash$/;"	m
+HELL	link/Makefile	/^HELL = \/bin\/bash$/;"	m
+HELL	list_head/Makefile	/^HELL = \/bin\/bash$/;"	m
+HELL	list_head20190301/Makefile	/^HELL = \/bin\/bash$/;"	m
+HELL	malloc/Makefile	/^HELL = \/bin\/bash$/;"	m
+HELL	memalign/Makefile	/^HELL = \/bin\/bash$/;"	m
+HELL	memcpy/Makefile	/^HELL = \/bin\/bash$/;"	m
+HELL	mkstemp/Makefile	/^HELL = \/bin\/bash$/;"	m
+HELL	mmap/Makefile	/^HELL = \/bin\/bash$/;"	m
+HELL	munmap/Makefile	/^HELL = \/bin\/bash$/;"	m
+HELL	open-read/Makefile	/^HELL = \/bin\/bash$/;"	m
+HELL	openlog/Makefile	/^HELL = \/bin\/bash$/;"	m
+HELL	poll/Makefile	/^HELL = \/bin\/bash$/;"	m
+HELL	poll/access/Makefile	/^HELL = \/bin\/bash$/;"	m
+HELL	posix_memalign/Makefile	/^HELL = \/bin\/bash$/;"	m
+HELL	printk/Makefile	/^HELL = \/bin\/bash$/;"	m
+HELL	pthread_create/Makefile	/^HELL = \/bin\/bash$/;"	m
+HELL	read/Makefile	/^HELL = \/bin\/bash$/;"	m
+HELL	realloc/Makefile	/^HELL = \/bin\/bash$/;"	m
+HELL	sbrk/Makefile	/^HELL = \/bin\/bash$/;"	m
+HELL	select/Makefile	/^HELL = \/bin\/bash$/;"	m
+HELL	setpriority/Makefile	/^HELL = \/bin\/bash$/;"	m
+HELL	setsid/Makefile	/^HELL = \/bin\/bash$/;"	m
+HELL	socket/Makefile	/^HELL = \/bin\/bash$/;"	m
+HELL	socket/cl/Makefile	/^HELL = \/bin\/bash$/;"	m
+HELL	socket/sv/Makefile	/^HELL = \/bin\/bash$/;"	m
+HELL	socket_ud_ucase/Makefile	/^HELL = \/bin\/bash$/;"	m
+HELL	socket_ud_ucase/cl/Makefile	/^HELL = \/bin\/bash$/;"	m
+HELL	socket_ud_ucase/sv/Makefile	/^HELL = \/bin\/bash$/;"	m
+HELL	strlen/Makefile	/^HELL = \/bin\/bash$/;"	m
+HELL	strncmp/Makefile	/^HELL = \/bin\/bash$/;"	m
+HELL	strstr/Makefile	/^HELL = \/bin\/bash$/;"	m
+HELL	tmpnam/Makefile	/^HELL = \/bin\/bash$/;"	m
+HELL	type_file/Makefile	/^HELL = \/bin\/bash$/;"	m
+HELL	unlink/Makefile	/^HELL = \/bin\/bash$/;"	m
+INIT_LIST_HEAD	list_head/include/list.h	46;"	d
+INIT_LIST_HEAD	list_head20190301/include/list.h	46;"	d
+LDFLAGS	Makefile	/^LDFLAGS = -lstdc++ $/;"	m
+LDFLAGS	access/Makefile	/^LDFLAGS = -lstdc++ $/;"	m
+LDFLAGS	alloca/Makefile	/^LDFLAGS = -lstdc++ $/;"	m
+LDFLAGS	argc/Makefile	/^LDFLAGS = -lstdc++ $/;"	m
+LDFLAGS	atomic_append/Makefile	/^LDFLAGS = -lstdc++ $/;"	m
+LDFLAGS	brk/Makefile	/^LDFLAGS = -lstdc++ $/;"	m
+LDFLAGS	calloc/Makefile	/^LDFLAGS = -lstdc++ $/;"	m
+LDFLAGS	chmod/Makefile	/^LDFLAGS = -lstdc++ $/;"	m
+LDFLAGS	clone/Makefile	/^LDFLAGS = -lstdc++ $/;"	m
+LDFLAGS	clone/alloca/Makefile	/^LDFLAGS = -lstdc++ $/;"	m
+LDFLAGS	creat-open-write-read/Makefile	/^LDFLAGS = -lstdc++ $/;"	m
+LDFLAGS	creat/Makefile	/^LDFLAGS = -lstdc++ $/;"	m
+LDFLAGS	current/Makefile	/^LDFLAGS = -lstdc++ $/;"	m
+LDFLAGS	daemon/Makefile	/^LDFLAGS = -lstdc++ $/;"	m
+LDFLAGS	dmesg/Makefile	/^LDFLAGS = -lstdc++ $/;"	m
+LDFLAGS	epoll/Makefile	/^LDFLAGS = -lstdc++ $/;"	m
+LDFLAGS	fcntl/Makefile	/^LDFLAGS = -lstdc++ $/;"	m
+LDFLAGS	fgetc_fputc/Makefile	/^LDFLAGS = -lstdc++ $/;"	m
+LDFLAGS	file_hole/Makefile	/^LDFLAGS = -lstdc++ $/;"	m
+LDFLAGS	fileio/Makefile	/^LDFLAGS = -lstdc++ $/;"	m
+LDFLAGS	filter/Makefile	/^LDFLAGS = -lstdc++ $/;"	m
+LDFLAGS	fmemopen/Makefile	/^LDFLAGS = -lstdc++ $/;"	m
+LDFLAGS	fork/Makefile	/^LDFLAGS = -lstdc++ $/;"	m
+LDFLAGS	free/Makefile	/^LDFLAGS = -lstdc++ $/;"	m
+LDFLAGS	getc/Makefile	/^LDFLAGS = -lstdc++ $/;"	m
+LDFLAGS	getpid/Makefile	/^LDFLAGS = -lstdc++ $/;"	m
+LDFLAGS	getppid/Makefile	/^LDFLAGS = -lstdc++ $/;"	m
+LDFLAGS	kmp/Makefile	/^LDFLAGS = -lstdc++ $/;"	m
+LDFLAGS	link/Makefile	/^LDFLAGS = -lstdc++ $/;"	m
+LDFLAGS	list_head/Makefile	/^LDFLAGS = -lstdc++ $/;"	m
+LDFLAGS	list_head20190301/Makefile	/^LDFLAGS = -lstdc++ $/;"	m
+LDFLAGS	malloc/Makefile	/^LDFLAGS = -lstdc++ $/;"	m
+LDFLAGS	memalign/Makefile	/^LDFLAGS = -lstdc++ $/;"	m
+LDFLAGS	memcpy/Makefile	/^LDFLAGS = -lstdc++ $/;"	m
+LDFLAGS	mkstemp/Makefile	/^LDFLAGS = -lstdc++ $/;"	m
+LDFLAGS	mmap/Makefile	/^LDFLAGS = -lstdc++ $/;"	m
+LDFLAGS	munmap/Makefile	/^LDFLAGS = -lstdc++ $/;"	m
+LDFLAGS	open-read/Makefile	/^LDFLAGS = -lstdc++ $/;"	m
+LDFLAGS	openlog/Makefile	/^LDFLAGS = -lstdc++ $/;"	m
+LDFLAGS	poll/Makefile	/^LDFLAGS = -lstdc++ $/;"	m
+LDFLAGS	poll/access/Makefile	/^LDFLAGS = -lstdc++ $/;"	m
+LDFLAGS	posix_memalign/Makefile	/^LDFLAGS = -lstdc++ $/;"	m
+LDFLAGS	printk/Makefile	/^LDFLAGS = -lstdc++ $/;"	m
+LDFLAGS	pthread_create/Makefile	/^LDFLAGS = -lstdc++ $/;"	m
+LDFLAGS	read/Makefile	/^LDFLAGS = -lstdc++ $/;"	m
+LDFLAGS	realloc/Makefile	/^LDFLAGS = -lstdc++ $/;"	m
+LDFLAGS	sbrk/Makefile	/^LDFLAGS = -lstdc++ $/;"	m
+LDFLAGS	select/Makefile	/^LDFLAGS = -lstdc++ $/;"	m
+LDFLAGS	setpriority/Makefile	/^LDFLAGS = -lstdc++ $/;"	m
+LDFLAGS	setsid/Makefile	/^LDFLAGS = -lstdc++ $/;"	m
+LDFLAGS	socket/Makefile	/^LDFLAGS = -lstdc++ $/;"	m
+LDFLAGS	socket/cl/Makefile	/^LDFLAGS = -lstdc++ $/;"	m
+LDFLAGS	socket/sv/Makefile	/^LDFLAGS = -lstdc++ $/;"	m
+LDFLAGS	socket_ud_ucase/Makefile	/^LDFLAGS = -lstdc++ $/;"	m
+LDFLAGS	socket_ud_ucase/cl/Makefile	/^LDFLAGS = -lstdc++ $/;"	m
+LDFLAGS	socket_ud_ucase/sv/Makefile	/^LDFLAGS = -lstdc++ $/;"	m
+LDFLAGS	strlen/Makefile	/^LDFLAGS = -lstdc++ $/;"	m
+LDFLAGS	strncmp/Makefile	/^LDFLAGS = -lstdc++ $/;"	m
+LDFLAGS	strstr/Makefile	/^LDFLAGS = -lstdc++ $/;"	m
+LDFLAGS	tmpnam/Makefile	/^LDFLAGS = -lstdc++ $/;"	m
+LDFLAGS	type_file/Makefile	/^LDFLAGS = -lstdc++ $/;"	m
+LDFLAGS	unlink/Makefile	/^LDFLAGS = -lstdc++ $/;"	m
+LIST_HEAD	list_head/include/list.h	43;"	d
+LIST_HEAD	list_head20190301/include/list.h	43;"	d
+LIST_HEAD_INIT	list_head/include/list.h	41;"	d
+LIST_HEAD_INIT	list_head20190301/include/list.h	41;"	d
+MAXLINE	fgetc_fputc/fgetc_fputc.c	3;"	d	file:
+MAXLINE	tmpnam/tmpnam.c	3;"	d	file:
+MEM_SIZE	mmap/include/mmap.h	8;"	d
+Objs	Makefile	/^Objs := $(patsubst %.c,%.o, $(Sources)) $/;"	m
+Objs	access/Makefile	/^Objs := $(patsubst %.c,%.o, $(Sources)) $/;"	m
+Objs	alloca/Makefile	/^Objs := $(patsubst %.c,%.o, $(Sources)) $/;"	m
+Objs	argc/Makefile	/^Objs := $(patsubst %.c,%.o, $(Sources)) $/;"	m
+Objs	atomic_append/Makefile	/^Objs := $(patsubst %.c,%.o, $(Sources)) $/;"	m
+Objs	brk/Makefile	/^Objs := $(patsubst %.c,%.o, $(Sources)) $/;"	m
+Objs	calloc/Makefile	/^Objs := $(patsubst %.c,%.o, $(Sources)) $/;"	m
+Objs	chmod/Makefile	/^Objs := $(patsubst %.c,%.o, $(Sources)) $/;"	m
+Objs	clone/Makefile	/^Objs := $(patsubst %.c,%.o, $(Sources)) $/;"	m
+Objs	clone/alloca/Makefile	/^Objs := $(patsubst %.c,%.o, $(Sources)) $/;"	m
+Objs	creat-open-write-read/Makefile	/^Objs := $(patsubst %.c,%.o, $(Sources)) $/;"	m
+Objs	creat/Makefile	/^Objs := $(patsubst %.c,%.o, $(Sources)) $/;"	m
+Objs	current/Makefile	/^Objs := $(patsubst %.c,%.o, $(Sources)) $/;"	m
+Objs	daemon/Makefile	/^Objs := $(patsubst %.c,%.o, $(Sources)) $/;"	m
+Objs	dmesg/Makefile	/^Objs := $(patsubst %.c,%.o, $(Sources)) $/;"	m
+Objs	epoll/Makefile	/^Objs := $(patsubst %.c,%.o, $(Sources)) $/;"	m
+Objs	fcntl/Makefile	/^Objs := $(patsubst %.c,%.o, $(Sources)) $/;"	m
+Objs	fgetc_fputc/Makefile	/^Objs := $(patsubst %.c,%.o, $(Sources)) $/;"	m
+Objs	file_hole/Makefile	/^Objs := $(patsubst %.c,%.o, $(Sources)) $/;"	m
+Objs	fileio/Makefile	/^Objs := $(patsubst %.c,%.o, $(Sources)) $/;"	m
+Objs	filter/Makefile	/^Objs := $(patsubst %.c,%.o, $(Sources)) $/;"	m
+Objs	fmemopen/Makefile	/^Objs := $(patsubst %.c,%.o, $(Sources)) $/;"	m
+Objs	fork/Makefile	/^Objs := $(patsubst %.c,%.o, $(Sources)) $/;"	m
+Objs	free/Makefile	/^Objs := $(patsubst %.c,%.o, $(Sources)) $/;"	m
+Objs	getc/Makefile	/^Objs := $(patsubst %.c,%.o, $(Sources)) $/;"	m
+Objs	getpid/Makefile	/^Objs := $(patsubst %.c,%.o, $(Sources)) $/;"	m
+Objs	getppid/Makefile	/^Objs := $(patsubst %.c,%.o, $(Sources)) $/;"	m
+Objs	kmp/Makefile	/^Objs := $(patsubst %.c,%.o, $(Sources)) $/;"	m
+Objs	link/Makefile	/^Objs := $(patsubst %.c,%.o, $(Sources)) $/;"	m
+Objs	list_head/Makefile	/^Objs := $(patsubst %.c,%.o, $(Sources)) $/;"	m
+Objs	list_head20190301/Makefile	/^Objs := $(patsubst %.c,%.o, $(Sources)) $/;"	m
+Objs	malloc/Makefile	/^Objs := $(patsubst %.c,%.o, $(Sources)) $/;"	m
+Objs	memalign/Makefile	/^Objs := $(patsubst %.c,%.o, $(Sources)) $/;"	m
+Objs	memcpy/Makefile	/^Objs := $(patsubst %.c,%.o, $(Sources)) $/;"	m
+Objs	mkstemp/Makefile	/^Objs := $(patsubst %.c,%.o, $(Sources)) $/;"	m
+Objs	mmap/Makefile	/^Objs := $(patsubst %.c,%.o, $(Sources)) $/;"	m
+Objs	munmap/Makefile	/^Objs := $(patsubst %.c,%.o, $(Sources)) $/;"	m
+Objs	open-read/Makefile	/^Objs := $(patsubst %.c,%.o, $(Sources)) $/;"	m
+Objs	openlog/Makefile	/^Objs := $(patsubst %.c,%.o, $(Sources)) $/;"	m
+Objs	poll/Makefile	/^Objs := $(patsubst %.c,%.o, $(Sources)) $/;"	m
+Objs	poll/access/Makefile	/^Objs := $(patsubst %.c,%.o, $(Sources)) $/;"	m
+Objs	posix_memalign/Makefile	/^Objs := $(patsubst %.c,%.o, $(Sources)) $/;"	m
+Objs	printk/Makefile	/^Objs := $(patsubst %.c,%.o, $(Sources)) $/;"	m
+Objs	pthread_create/Makefile	/^Objs := $(patsubst %.c,%.o, $(Sources)) $/;"	m
+Objs	read/Makefile	/^Objs := $(patsubst %.c,%.o, $(Sources)) $/;"	m
+Objs	realloc/Makefile	/^Objs := $(patsubst %.c,%.o, $(Sources)) $/;"	m
+Objs	sbrk/Makefile	/^Objs := $(patsubst %.c,%.o, $(Sources)) $/;"	m
+Objs	select/Makefile	/^Objs := $(patsubst %.c,%.o, $(Sources)) $/;"	m
+Objs	setpriority/Makefile	/^Objs := $(patsubst %.c,%.o, $(Sources)) $/;"	m
+Objs	setsid/Makefile	/^Objs := $(patsubst %.c,%.o, $(Sources)) $/;"	m
+Objs	socket/Makefile	/^Objs := $(patsubst %.c,%.o, $(Sources)) $/;"	m
+Objs	socket/cl/Makefile	/^Objs := $(patsubst %.c,%.o, $(Sources)) $/;"	m
+Objs	socket/sv/Makefile	/^Objs := $(patsubst %.c,%.o, $(Sources)) $/;"	m
+Objs	socket_ud_ucase/Makefile	/^Objs := $(patsubst %.c,%.o, $(Sources)) $/;"	m
+Objs	socket_ud_ucase/cl/Makefile	/^Objs := $(patsubst %.c,%.o, $(Sources)) $/;"	m
+Objs	socket_ud_ucase/sv/Makefile	/^Objs := $(patsubst %.c,%.o, $(Sources)) $/;"	m
+Objs	strlen/Makefile	/^Objs := $(patsubst %.c,%.o, $(Sources)) $/;"	m
+Objs	strncmp/Makefile	/^Objs := $(patsubst %.c,%.o, $(Sources)) $/;"	m
+Objs	strstr/Makefile	/^Objs := $(patsubst %.c,%.o, $(Sources)) $/;"	m
+Objs	tmpnam/Makefile	/^Objs := $(patsubst %.c,%.o, $(Sources)) $/;"	m
+Objs	type_file/Makefile	/^Objs := $(patsubst %.c,%.o, $(Sources)) $/;"	m
+Objs	unlink/Makefile	/^Objs := $(patsubst %.c,%.o, $(Sources)) $/;"	m
+RM	Makefile	/^RM = rm -f $/;"	m
+RM	access/Makefile	/^RM = rm -f $/;"	m
+RM	alloca/Makefile	/^RM = rm -f $/;"	m
+RM	argc/Makefile	/^RM = rm -f $/;"	m
+RM	atomic_append/Makefile	/^RM = rm -f $/;"	m
+RM	brk/Makefile	/^RM = rm -f $/;"	m
+RM	calloc/Makefile	/^RM = rm -f $/;"	m
+RM	chmod/Makefile	/^RM = rm -f $/;"	m
+RM	clone/Makefile	/^RM = rm -f $/;"	m
+RM	clone/alloca/Makefile	/^RM = rm -f $/;"	m
+RM	creat-open-write-read/Makefile	/^RM = rm -f $/;"	m
+RM	creat/Makefile	/^RM = rm -f $/;"	m
+RM	current/Makefile	/^RM = rm -f $/;"	m
+RM	daemon/Makefile	/^RM = rm -f $/;"	m
+RM	dmesg/Makefile	/^RM = rm -f $/;"	m
+RM	epoll/Makefile	/^RM = rm -f $/;"	m
+RM	fcntl/Makefile	/^RM = rm -f $/;"	m
+RM	fgetc_fputc/Makefile	/^RM = rm -f $/;"	m
+RM	file_hole/Makefile	/^RM = rm -f $/;"	m
+RM	fileio/Makefile	/^RM = rm -f $/;"	m
+RM	filter/Makefile	/^RM = rm -f $/;"	m
+RM	fmemopen/Makefile	/^RM = rm -f $/;"	m
+RM	fork/Makefile	/^RM = rm -f $/;"	m
+RM	free/Makefile	/^RM = rm -f $/;"	m
+RM	getc/Makefile	/^RM = rm -f $/;"	m
+RM	getpid/Makefile	/^RM = rm -f $/;"	m
+RM	getppid/Makefile	/^RM = rm -f $/;"	m
+RM	kmp/Makefile	/^RM = rm -f $/;"	m
+RM	link/Makefile	/^RM = rm -f $/;"	m
+RM	list_head/Makefile	/^RM = rm -f $/;"	m
+RM	list_head20190301/Makefile	/^RM = rm -f $/;"	m
+RM	malloc/Makefile	/^RM = rm -f $/;"	m
+RM	memalign/Makefile	/^RM = rm -f $/;"	m
+RM	memcpy/Makefile	/^RM = rm -f $/;"	m
+RM	mkstemp/Makefile	/^RM = rm -f $/;"	m
+RM	mmap/Makefile	/^RM = rm -f $/;"	m
+RM	munmap/Makefile	/^RM = rm -f $/;"	m
+RM	open-read/Makefile	/^RM = rm -f $/;"	m
+RM	openlog/Makefile	/^RM = rm -f $/;"	m
+RM	poll/Makefile	/^RM = rm -f $/;"	m
+RM	poll/access/Makefile	/^RM = rm -f $/;"	m
+RM	posix_memalign/Makefile	/^RM = rm -f $/;"	m
+RM	printk/Makefile	/^RM = rm -f $/;"	m
+RM	pthread_create/Makefile	/^RM = rm -f $/;"	m
+RM	read/Makefile	/^RM = rm -f $/;"	m
+RM	realloc/Makefile	/^RM = rm -f $/;"	m
+RM	sbrk/Makefile	/^RM = rm -f $/;"	m
+RM	select/Makefile	/^RM = rm -f $/;"	m
+RM	setpriority/Makefile	/^RM = rm -f $/;"	m
+RM	setsid/Makefile	/^RM = rm -f $/;"	m
+RM	socket/Makefile	/^RM = rm -f $/;"	m
+RM	socket/cl/Makefile	/^RM = rm -f $/;"	m
+RM	socket/sv/Makefile	/^RM = rm -f $/;"	m
+RM	socket_ud_ucase/Makefile	/^RM = rm -f $/;"	m
+RM	socket_ud_ucase/cl/Makefile	/^RM = rm -f $/;"	m
+RM	socket_ud_ucase/sv/Makefile	/^RM = rm -f $/;"	m
+RM	strlen/Makefile	/^RM = rm -f $/;"	m
+RM	strncmp/Makefile	/^RM = rm -f $/;"	m
+RM	strstr/Makefile	/^RM = rm -f $/;"	m
+RM	tmpnam/Makefile	/^RM = rm -f $/;"	m
+RM	type_file/Makefile	/^RM = rm -f $/;"	m
+RM	unlink/Makefile	/^RM = rm -f $/;"	m
+SV_SOCK_PATH	socket/include/sock.h	8;"	d
+SV_SOCK_PATH	socket_ud_ucase/include/sock.h	8;"	d
+Sources	Makefile	/^Sources := $(foreach n,$(AllDirs) , $(wildcard $(n)\/*.c)) $/;"	m
+Sources	access/Makefile	/^Sources := $(foreach n,$(AllDirs) , $(wildcard $(n)\/*.c)) $/;"	m
+Sources	alloca/Makefile	/^Sources := $(foreach n,$(AllDirs) , $(wildcard $(n)\/*.c)) $/;"	m
+Sources	argc/Makefile	/^Sources := $(foreach n,$(AllDirs) , $(wildcard $(n)\/*.c)) $/;"	m
+Sources	atomic_append/Makefile	/^Sources := $(foreach n,$(AllDirs) , $(wildcard $(n)\/*.c)) $/;"	m
+Sources	brk/Makefile	/^Sources := $(foreach n,$(AllDirs) , $(wildcard $(n)\/*.c)) $/;"	m
+Sources	calloc/Makefile	/^Sources := $(foreach n,$(AllDirs) , $(wildcard $(n)\/*.c)) $/;"	m
+Sources	chmod/Makefile	/^Sources := $(foreach n,$(AllDirs) , $(wildcard $(n)\/*.c)) $/;"	m
+Sources	clone/Makefile	/^Sources := $(foreach n,$(AllDirs) , $(wildcard $(n)\/*.c)) $/;"	m
+Sources	clone/alloca/Makefile	/^Sources := $(foreach n,$(AllDirs) , $(wildcard $(n)\/*.c)) $/;"	m
+Sources	creat-open-write-read/Makefile	/^Sources := $(foreach n,$(AllDirs) , $(wildcard $(n)\/*.c)) $/;"	m
+Sources	creat/Makefile	/^Sources := $(foreach n,$(AllDirs) , $(wildcard $(n)\/*.c)) $/;"	m
+Sources	current/Makefile	/^Sources := $(foreach n,$(AllDirs) , $(wildcard $(n)\/*.c)) $/;"	m
+Sources	daemon/Makefile	/^Sources := $(foreach n,$(AllDirs) , $(wildcard $(n)\/*.c)) $/;"	m
+Sources	dmesg/Makefile	/^Sources := $(foreach n,$(AllDirs) , $(wildcard $(n)\/*.c)) $/;"	m
+Sources	epoll/Makefile	/^Sources := $(foreach n,$(AllDirs) , $(wildcard $(n)\/*.c)) $/;"	m
+Sources	fcntl/Makefile	/^Sources := $(foreach n,$(AllDirs) , $(wildcard $(n)\/*.c)) $/;"	m
+Sources	fgetc_fputc/Makefile	/^Sources := $(foreach n,$(AllDirs) , $(wildcard $(n)\/*.c)) $/;"	m
+Sources	file_hole/Makefile	/^Sources := $(foreach n,$(AllDirs) , $(wildcard $(n)\/*.c)) $/;"	m
+Sources	fileio/Makefile	/^Sources := $(foreach n,$(AllDirs) , $(wildcard $(n)\/*.c)) $/;"	m
+Sources	filter/Makefile	/^Sources := $(foreach n,$(AllDirs) , $(wildcard $(n)\/*.c)) $/;"	m
+Sources	fmemopen/Makefile	/^Sources := $(foreach n,$(AllDirs) , $(wildcard $(n)\/*.c)) $/;"	m
+Sources	fork/Makefile	/^Sources := $(foreach n,$(AllDirs) , $(wildcard $(n)\/*.c)) $/;"	m
+Sources	free/Makefile	/^Sources := $(foreach n,$(AllDirs) , $(wildcard $(n)\/*.c)) $/;"	m
+Sources	getc/Makefile	/^Sources := $(foreach n,$(AllDirs) , $(wildcard $(n)\/*.c)) $/;"	m
+Sources	getpid/Makefile	/^Sources := $(foreach n,$(AllDirs) , $(wildcard $(n)\/*.c)) $/;"	m
+Sources	getppid/Makefile	/^Sources := $(foreach n,$(AllDirs) , $(wildcard $(n)\/*.c)) $/;"	m
+Sources	kmp/Makefile	/^Sources := $(foreach n,$(AllDirs) , $(wildcard $(n)\/*.c)) $/;"	m
+Sources	link/Makefile	/^Sources := $(foreach n,$(AllDirs) , $(wildcard $(n)\/*.c)) $/;"	m
+Sources	list_head/Makefile	/^Sources := $(foreach n,$(AllDirs) , $(wildcard $(n)\/*.c)) $/;"	m
+Sources	list_head20190301/Makefile	/^Sources := $(foreach n,$(AllDirs) , $(wildcard $(n)\/*.c)) $/;"	m
+Sources	malloc/Makefile	/^Sources := $(foreach n,$(AllDirs) , $(wildcard $(n)\/*.c)) $/;"	m
+Sources	memalign/Makefile	/^Sources := $(foreach n,$(AllDirs) , $(wildcard $(n)\/*.c)) $/;"	m
+Sources	memcpy/Makefile	/^Sources := $(foreach n,$(AllDirs) , $(wildcard $(n)\/*.c)) $/;"	m
+Sources	mkstemp/Makefile	/^Sources := $(foreach n,$(AllDirs) , $(wildcard $(n)\/*.c)) $/;"	m
+Sources	mmap/Makefile	/^Sources := $(foreach n,$(AllDirs) , $(wildcard $(n)\/*.c)) $/;"	m
+Sources	munmap/Makefile	/^Sources := $(foreach n,$(AllDirs) , $(wildcard $(n)\/*.c)) $/;"	m
+Sources	open-read/Makefile	/^Sources := $(foreach n,$(AllDirs) , $(wildcard $(n)\/*.c)) $/;"	m
+Sources	openlog/Makefile	/^Sources := $(foreach n,$(AllDirs) , $(wildcard $(n)\/*.c)) $/;"	m
+Sources	poll/Makefile	/^Sources := $(foreach n,$(AllDirs) , $(wildcard $(n)\/*.c)) $/;"	m
+Sources	poll/access/Makefile	/^Sources := $(foreach n,$(AllDirs) , $(wildcard $(n)\/*.c)) $/;"	m
+Sources	posix_memalign/Makefile	/^Sources := $(foreach n,$(AllDirs) , $(wildcard $(n)\/*.c)) $/;"	m
+Sources	printk/Makefile	/^Sources := $(foreach n,$(AllDirs) , $(wildcard $(n)\/*.c)) $/;"	m
+Sources	pthread_create/Makefile	/^Sources := $(foreach n,$(AllDirs) , $(wildcard $(n)\/*.c)) $/;"	m
+Sources	read/Makefile	/^Sources := $(foreach n,$(AllDirs) , $(wildcard $(n)\/*.c)) $/;"	m
+Sources	realloc/Makefile	/^Sources := $(foreach n,$(AllDirs) , $(wildcard $(n)\/*.c)) $/;"	m
+Sources	sbrk/Makefile	/^Sources := $(foreach n,$(AllDirs) , $(wildcard $(n)\/*.c)) $/;"	m
+Sources	select/Makefile	/^Sources := $(foreach n,$(AllDirs) , $(wildcard $(n)\/*.c)) $/;"	m
+Sources	setpriority/Makefile	/^Sources := $(foreach n,$(AllDirs) , $(wildcard $(n)\/*.c)) $/;"	m
+Sources	setsid/Makefile	/^Sources := $(foreach n,$(AllDirs) , $(wildcard $(n)\/*.c)) $/;"	m
+Sources	socket/Makefile	/^Sources := $(foreach n,$(AllDirs) , $(wildcard $(n)\/*.c)) $/;"	m
+Sources	socket/cl/Makefile	/^Sources := $(foreach n,$(AllDirs) , $(wildcard $(n)\/*.c)) $/;"	m
+Sources	socket/sv/Makefile	/^Sources := $(foreach n,$(AllDirs) , $(wildcard $(n)\/*.c)) $/;"	m
+Sources	socket_ud_ucase/Makefile	/^Sources := $(foreach n,$(AllDirs) , $(wildcard $(n)\/*.c)) $/;"	m
+Sources	socket_ud_ucase/cl/Makefile	/^Sources := $(foreach n,$(AllDirs) , $(wildcard $(n)\/*.c)) $/;"	m
+Sources	socket_ud_ucase/sv/Makefile	/^Sources := $(foreach n,$(AllDirs) , $(wildcard $(n)\/*.c)) $/;"	m
+Sources	strlen/Makefile	/^Sources := $(foreach n,$(AllDirs) , $(wildcard $(n)\/*.c)) $/;"	m
+Sources	strncmp/Makefile	/^Sources := $(foreach n,$(AllDirs) , $(wildcard $(n)\/*.c)) $/;"	m
+Sources	strstr/Makefile	/^Sources := $(foreach n,$(AllDirs) , $(wildcard $(n)\/*.c)) $/;"	m
+Sources	tmpnam/Makefile	/^Sources := $(foreach n,$(AllDirs) , $(wildcard $(n)\/*.c)) $/;"	m
+Sources	type_file/Makefile	/^Sources := $(foreach n,$(AllDirs) , $(wildcard $(n)\/*.c)) $/;"	m
+Sources	unlink/Makefile	/^Sources := $(foreach n,$(AllDirs) , $(wildcard $(n)\/*.c)) $/;"	m
+StaticLib	Makefile	/^StaticLib := libyy.a $/;"	m
+StaticLib	access/Makefile	/^StaticLib := libyy.a $/;"	m
+StaticLib	alloca/Makefile	/^StaticLib := libyy.a $/;"	m
+StaticLib	argc/Makefile	/^StaticLib := libyy.a $/;"	m
+StaticLib	atomic_append/Makefile	/^StaticLib := libyy.a $/;"	m
+StaticLib	brk/Makefile	/^StaticLib := libyy.a $/;"	m
+StaticLib	calloc/Makefile	/^StaticLib := libyy.a $/;"	m
+StaticLib	chmod/Makefile	/^StaticLib := libyy.a $/;"	m
+StaticLib	clone/Makefile	/^StaticLib := libyy.a $/;"	m
+StaticLib	clone/alloca/Makefile	/^StaticLib := libyy.a $/;"	m
+StaticLib	creat-open-write-read/Makefile	/^StaticLib := libyy.a $/;"	m
+StaticLib	creat/Makefile	/^StaticLib := libyy.a $/;"	m
+StaticLib	current/Makefile	/^StaticLib := libyy.a $/;"	m
+StaticLib	daemon/Makefile	/^StaticLib := libyy.a $/;"	m
+StaticLib	dmesg/Makefile	/^StaticLib := libyy.a $/;"	m
+StaticLib	epoll/Makefile	/^StaticLib := libyy.a $/;"	m
+StaticLib	fcntl/Makefile	/^StaticLib := libyy.a $/;"	m
+StaticLib	fgetc_fputc/Makefile	/^StaticLib := libyy.a $/;"	m
+StaticLib	file_hole/Makefile	/^StaticLib := libyy.a $/;"	m
+StaticLib	fileio/Makefile	/^StaticLib := libyy.a $/;"	m
+StaticLib	filter/Makefile	/^StaticLib := libyy.a $/;"	m
+StaticLib	fmemopen/Makefile	/^StaticLib := libyy.a $/;"	m
+StaticLib	fork/Makefile	/^StaticLib := libyy.a $/;"	m
+StaticLib	free/Makefile	/^StaticLib := libyy.a $/;"	m
+StaticLib	getc/Makefile	/^StaticLib := libyy.a $/;"	m
+StaticLib	getpid/Makefile	/^StaticLib := libyy.a $/;"	m
+StaticLib	getppid/Makefile	/^StaticLib := libyy.a $/;"	m
+StaticLib	kmp/Makefile	/^StaticLib := libyy.a $/;"	m
+StaticLib	link/Makefile	/^StaticLib := libyy.a $/;"	m
+StaticLib	list_head/Makefile	/^StaticLib := libyy.a $/;"	m
+StaticLib	list_head20190301/Makefile	/^StaticLib := libyy.a $/;"	m
+StaticLib	malloc/Makefile	/^StaticLib := libyy.a $/;"	m
+StaticLib	memalign/Makefile	/^StaticLib := libyy.a $/;"	m
+StaticLib	memcpy/Makefile	/^StaticLib := libyy.a $/;"	m
+StaticLib	mkstemp/Makefile	/^StaticLib := libyy.a $/;"	m
+StaticLib	mmap/Makefile	/^StaticLib := libyy.a $/;"	m
+StaticLib	munmap/Makefile	/^StaticLib := libyy.a $/;"	m
+StaticLib	open-read/Makefile	/^StaticLib := libyy.a $/;"	m
+StaticLib	openlog/Makefile	/^StaticLib := libyy.a $/;"	m
+StaticLib	poll/Makefile	/^StaticLib := libyy.a $/;"	m
+StaticLib	poll/access/Makefile	/^StaticLib := libyy.a $/;"	m
+StaticLib	posix_memalign/Makefile	/^StaticLib := libyy.a $/;"	m
+StaticLib	printk/Makefile	/^StaticLib := libyy.a $/;"	m
+StaticLib	pthread_create/Makefile	/^StaticLib := libyy.a $/;"	m
+StaticLib	read/Makefile	/^StaticLib := libyy.a $/;"	m
+StaticLib	realloc/Makefile	/^StaticLib := libyy.a $/;"	m
+StaticLib	sbrk/Makefile	/^StaticLib := libyy.a $/;"	m
+StaticLib	select/Makefile	/^StaticLib := libyy.a $/;"	m
+StaticLib	setpriority/Makefile	/^StaticLib := libyy.a $/;"	m
+StaticLib	setsid/Makefile	/^StaticLib := libyy.a $/;"	m
+StaticLib	socket/Makefile	/^StaticLib := libyy.a $/;"	m
+StaticLib	socket/cl/Makefile	/^StaticLib := libyy.a $/;"	m
+StaticLib	socket/sv/Makefile	/^StaticLib := libyy.a $/;"	m
+StaticLib	socket_ud_ucase/Makefile	/^StaticLib := libyy.a $/;"	m
+StaticLib	socket_ud_ucase/cl/Makefile	/^StaticLib := libyy.a $/;"	m
+StaticLib	socket_ud_ucase/sv/Makefile	/^StaticLib := libyy.a $/;"	m
+StaticLib	strlen/Makefile	/^StaticLib := libyy.a $/;"	m
+StaticLib	strncmp/Makefile	/^StaticLib := libyy.a $/;"	m
+StaticLib	strstr/Makefile	/^StaticLib := libyy.a $/;"	m
+StaticLib	tmpnam/Makefile	/^StaticLib := libyy.a $/;"	m
+StaticLib	type_file/Makefile	/^StaticLib := libyy.a $/;"	m
+StaticLib	unlink/Makefile	/^StaticLib := libyy.a $/;"	m
+_NTFS_LIST_H	list_head/include/list.h	23;"	d
+_NTFS_LIST_H	list_head20190301/include/list.h	23;"	d
+__list_add	list_head/include/list.h	/^static __inline__ void __list_add(struct list_head * new,$/;"	f
+__list_add	list_head20190301/include/list.h	/^static __inline__ void __list_add(struct list_head * new,$/;"	f
+__list_del	list_head/include/list.h	/^static __inline__ void __list_del(struct list_head * prev, struct list_head * next)$/;"	f
+__list_del	list_head20190301/include/list.h	/^static __inline__ void __list_del(struct list_head * prev, struct list_head * next)$/;"	f
+age	list_head/include/list_head.h	/^	int age;$/;"	m	struct:person_s
+buf1	creat/include/creat.h	/^char buf1[] = "abcdefghij123";$/;"	v
+buf1	fcntl/include/read.h	/^char buf1[] = "abcdefghij123";$/;"	v
+buf1	file_hole/file_hole.c	/^char buf1[] = "abcdefghij";$/;"	v
+buf1	read/include/read.h	/^char buf1[] = "abcdefghij123";$/;"	v
+buf2	creat/include/creat.h	/^char buf2[] = "ABCDEFGHIJ";$/;"	v
+buf2	fcntl/include/read.h	/^char buf2[] = "ABCDEFGHIJ";$/;"	v
+buf2	file_hole/file_hole.c	/^char buf2[] = "ABCDEFGHIJ";$/;"	v
+buf2	read/include/read.h	/^char buf2[] = "ABCDEFGHIJ";$/;"	v
+count	dmesg/dmesg.c	/^static unsigned long long count = 0;$/;"	v	file:
+f_i	list_head20190301/include/list_head.h	/^  int f_i, f_j;$/;"	m	struct:filter_s
+f_j	list_head20190301/include/list_head.h	/^  int f_i, f_j;$/;"	m	struct:filter_s
+filter_s	list_head20190301/include/list_head.h	/^typedef struct filter_s{$/;"	s
+filter_t	list_head20190301/include/list_head.h	/^}filter_t;$/;"	t	typeref:struct:filter_s
+geek_init	dmesg/dmesg.c	/^security_initcall(geek_init);$/;"	v
+geek_init	dmesg/dmesg.c	/^static __init int geek_init(void)$/;"	f	file:
+geek_ops	dmesg/dmesg.c	/^  static struct security_operations geek_ops = {$/;"	v	typeref:struct:security_operations	file:
+get_long	setpriority/setpriority.c	/^long get_long(const char *arg, int flags, const char *name)$/;"	f
+get_next	kmp/kmp.c	/^void get_next(char *T, int *next)$/;"	f
+index_kmp	kmp/kmp.c	/^int index_kmp(char *S, char *T, int pos)$/;"	f
+list	list_head/include/list_head.h	/^	struct list_head list;$/;"	m	struct:person_s	typeref:struct:person_s::list_head
+list	list_head20190301/include/list_head.h	/^	struct list_head list;$/;"	m	struct:filter_s	typeref:struct:filter_s::list_head
+list_add	list_head/include/list.h	/^static __inline__ void list_add(struct list_head *new, struct list_head *head)$/;"	f
+list_add	list_head20190301/include/list.h	/^static __inline__ void list_add(struct list_head *new, struct list_head *head)$/;"	f
+list_add_tail	list_head/include/list.h	/^static __inline__ void list_add_tail(struct list_head *new, struct list_head *head)$/;"	f
+list_add_tail	list_head20190301/include/list.h	/^static __inline__ void list_add_tail(struct list_head *new, struct list_head *head)$/;"	f
+list_del	list_head/include/list.h	/^static __inline__ void list_del(struct list_head *entry)$/;"	f
+list_del	list_head20190301/include/list.h	/^static __inline__ void list_del(struct list_head *entry)$/;"	f
+list_del_init	list_head/include/list.h	/^static __inline__ void list_del_init(struct list_head *entry)$/;"	f
+list_del_init	list_head20190301/include/list.h	/^static __inline__ void list_del_init(struct list_head *entry)$/;"	f
+list_empty	list_head/include/list.h	/^static __inline__ int list_empty(struct list_head *head)$/;"	f
+list_empty	list_head20190301/include/list.h	/^static __inline__ int list_empty(struct list_head *head)$/;"	f
+list_entry	list_head/include/list.h	168;"	d
+list_entry	list_head20190301/include/list.h	168;"	d
+list_for_each	list_head/include/list.h	176;"	d
+list_for_each	list_head20190301/include/list.h	176;"	d
+list_for_each_safe	list_head/include/list.h	185;"	d
+list_for_each_safe	list_head20190301/include/list.h	185;"	d
+list_head	list_head/include/list.h	/^struct list_head {$/;"	s
+list_head	list_head20190301/include/list.h	/^struct list_head {$/;"	s
+list_splice	list_head/include/list.h	/^static __inline__ void list_splice(struct list_head *list, struct list_head *head)$/;"	f
+list_splice	list_head20190301/include/list.h	/^static __inline__ void list_splice(struct list_head *list, struct list_head *head)$/;"	f
+main	access/access.c	/^int main(int argc, char *argv[])$/;"	f
+main	alloca/alloca.c	/^int main()$/;"	f
+main	argc/argv.c	/^int main(int argc, char *argv[])$/;"	f
+main	atomic_append/atomic_append.c	/^int main(int argc, char *argv[])$/;"	f
+main	brk/brk.c	/^int main()$/;"	f
+main	calloc/calloc.c	/^int main()$/;"	f
+main	chmod/chmod.c	/^int main(int argc, char *argv[])$/;"	f
+main	clone/alloca.c	/^int main()$/;"	f
+main	clone/alloca/alloca.c	/^int main()$/;"	f
+main	creat-open-write-read/creat-open-write-read.c	/^int main()$/;"	f
+main	creat/creat.c	/^int main()$/;"	f
+main	current/current.c	/^int main(int argc, char *argv[])$/;"	f
+main	daemon/daemon.c	/^int main()$/;"	f
+main	epoll/epoll.c	/^int main(int argc, char *argv[])$/;"	f
+main	fcntl/fcntl.c	/^int main()$/;"	f
+main	fgetc_fputc/fgetc_fputc.c	/^int main(int argc, char *argv[])$/;"	f
+main	file_hole/file_hole.c	/^int main(int argc, char *argv[])$/;"	f
+main	fileio/copy.c	/^int main(int argc, char *argv[])$/;"	f
+main	filter/filter.c	/^int main(int argc, char *argv[])$/;"	f
+main	fmemopen/fmemopen.c	/^int main(int argc, char *argv[])$/;"	f
+main	fork/fork.c	/^int main()$/;"	f
+main	free/free.c	/^int main()$/;"	f
+main	getc/getc.c	/^int main(int argc, char *argv[])$/;"	f
+main	getpid/getpid.c	/^int main()$/;"	f
+main	getppid/getpid.c	/^int main()$/;"	f
+main	kmp/kmp.c	/^int main(void)$/;"	f
+main	link/link.c	/^int main()$/;"	f
+main	list_head/list_head.c	/^int main(int argc, char* argv[])$/;"	f
+main	list_head20190301/list_head20190301.c	/^int main(int argc, char* argv[])$/;"	f
+main	malloc/malloc.c	/^int main()$/;"	f
+main	memalign/memalign.c	/^int main()$/;"	f
+main	memcpy/memcpy.c	/^int main(int argc, char *argv[])$/;"	f
+main	mkstemp/mkstemp.c	/^int main(int argc, char *argv[])$/;"	f
+main	mmap/mmap.c	/^int main()$/;"	f
+main	munmap/alloca.c	/^int main()$/;"	f
+main	open-read/open-read.c	/^int main()$/;"	f
+main	openlog/openlog.c	/^int main(int argc, char *argv[])$/;"	f
+main	poll/access/access.c	/^int main(int argc, char *argv[])$/;"	f
+main	poll/poll.c	/^int main(int argc, char *argv[])$/;"	f
+main	posix_memalign/posix_memalign.c	/^int main()$/;"	f
+main	printk/printk.c	/^int main(int argc, char *argv[])$/;"	f
+main	pthread_create/pthread_create.c	/^int main()$/;"	f
+main	read/read.c	/^int main()$/;"	f
+main	realloc/calloc.c	/^int main()$/;"	f
+main	sbrk/sbrk.c	/^int main()$/;"	f
+main	select/select.c	/^int main(int argc, char *argv[])$/;"	f
+main	setpriority/setpriority.c	/^int main(int argc, char *argv[])$/;"	f
+main	setsid/setsid.c	/^int main()$/;"	f
+main	socket/cl/cl.c	/^int main(int argc, char *argv[])$/;"	f
+main	socket/sv/sv.c	/^int main()$/;"	f
+main	socket_ud_ucase/cl/cl.c	/^int main()$/;"	f
+main	socket_ud_ucase/sv/sv.c	/^int main()$/;"	f
+main	strlen/strlen.c	/^int main(int argc, char *argv[])$/;"	f
+main	strncmp/strncmp.c	/^int main(int argc, char *argv[])$/;"	f
+main	strstr/strstr.c	/^int main(int argc, char *argv[])$/;"	f
+main	tmpnam/tmpnam.c	/^int main(int argc, char *argv[])$/;"	f
+main	type_file/type_file.c	/^int main(int argc, char *argv[])$/;"	f
+main	unlink/unlink.c	/^int main(int argc, char *argv[])$/;"	f
+make_temp	mkstemp/mkstemp.c	/^void make_temp(char *template)$/;"	f
+mystruct_s	access/include/memalign.h	/^typedef struct mystruct_s{$/;"	s
+mystruct_s	alloca/include/memalign.h	/^typedef struct mystruct_s{$/;"	s
+mystruct_s	argc/include/argv.h	/^typedef struct mystruct_s{$/;"	s
+mystruct_s	atomic_append/include/memalign.h	/^typedef struct mystruct_s{$/;"	s
+mystruct_s	calloc/include/calloc.h	/^typedef struct mystruct_s{$/;"	s
+mystruct_s	chmod/include/memalign.h	/^typedef struct mystruct_s{$/;"	s
+mystruct_s	clone/alloca/include/memalign.h	/^typedef struct mystruct_s{$/;"	s
+mystruct_s	clone/include/memalign.h	/^typedef struct mystruct_s{$/;"	s
+mystruct_s	current/include/memalign.h	/^typedef struct mystruct_s{$/;"	s
+mystruct_s	daemon/include/daemon.h	/^typedef struct mystruct_s{$/;"	s
+mystruct_s	dmesg/include/memalign.h	/^typedef struct mystruct_s{$/;"	s
+mystruct_s	epoll/include/memalign.h	/^typedef struct mystruct_s{$/;"	s
+mystruct_s	fgetc_fputc/include/memalign.h	/^typedef struct mystruct_s{$/;"	s
+mystruct_s	file_hole/include/memalign.h	/^typedef struct mystruct_s{$/;"	s
+mystruct_s	filter/include/memalign.h	/^typedef struct mystruct_s{$/;"	s
+mystruct_s	fmemopen/include/memalign.h	/^typedef struct mystruct_s{$/;"	s
+mystruct_s	fork/include/memalign.h	/^typedef struct mystruct_s{$/;"	s
+mystruct_s	getc/include/memalign.h	/^typedef struct mystruct_s{$/;"	s
+mystruct_s	getpid/include/getpid.h	/^typedef struct mystruct_s{$/;"	s
+mystruct_s	getppid/include/getpid.h	/^typedef struct mystruct_s{$/;"	s
+mystruct_s	kmp/include/memalign.h	/^typedef struct mystruct_s{$/;"	s
+mystruct_s	memalign/include/memalign.h	/^typedef struct mystruct_s{$/;"	s
+mystruct_s	memcpy/include/memalign.h	/^typedef struct mystruct_s{$/;"	s
+mystruct_s	mkstemp/include/memalign.h	/^typedef struct mystruct_s{$/;"	s
+mystruct_s	munmap/include/memalign.h	/^typedef struct mystruct_s{$/;"	s
+mystruct_s	openlog/include/memalign.h	/^typedef struct mystruct_s{$/;"	s
+mystruct_s	poll/access/include/memalign.h	/^typedef struct mystruct_s{$/;"	s
+mystruct_s	poll/include/select.h	/^typedef struct mystruct_s{$/;"	s
+mystruct_s	posix_memalign/include/memalign.h	/^typedef struct mystruct_s{$/;"	s
+mystruct_s	printk/include/memalign.h	/^typedef struct mystruct_s{$/;"	s
+mystruct_s	pthread_create/include/pthread_create.h	/^typedef struct mystruct_s{$/;"	s
+mystruct_s	select/include/select.h	/^typedef struct mystruct_s{$/;"	s
+mystruct_s	strlen/include/memalign.h	/^typedef struct mystruct_s{$/;"	s
+mystruct_s	strncmp/include/memalign.h	/^typedef struct mystruct_s{$/;"	s
+mystruct_s	strstr/include/memalign.h	/^typedef struct mystruct_s{$/;"	s
+mystruct_s	tmpnam/include/memalign.h	/^typedef struct mystruct_s{$/;"	s
+mystruct_s	type_file/include/memalign.h	/^typedef struct mystruct_s{$/;"	s
+mystruct_s	unlink/include/memalign.h	/^typedef struct mystruct_s{$/;"	s
+mystruct_t	access/include/memalign.h	/^}mystruct_t;$/;"	t	typeref:struct:mystruct_s
+mystruct_t	alloca/include/memalign.h	/^}mystruct_t;$/;"	t	typeref:struct:mystruct_s
+mystruct_t	argc/include/argv.h	/^}mystruct_t;$/;"	t	typeref:struct:mystruct_s
+mystruct_t	atomic_append/include/memalign.h	/^}mystruct_t;$/;"	t	typeref:struct:mystruct_s
+mystruct_t	calloc/include/calloc.h	/^}mystruct_t;$/;"	t	typeref:struct:mystruct_s
+mystruct_t	chmod/include/memalign.h	/^}mystruct_t;$/;"	t	typeref:struct:mystruct_s
+mystruct_t	clone/alloca/include/memalign.h	/^}mystruct_t;$/;"	t	typeref:struct:mystruct_s
+mystruct_t	clone/include/memalign.h	/^}mystruct_t;$/;"	t	typeref:struct:mystruct_s
+mystruct_t	current/include/memalign.h	/^}mystruct_t;$/;"	t	typeref:struct:mystruct_s
+mystruct_t	daemon/include/daemon.h	/^}mystruct_t;$/;"	t	typeref:struct:mystruct_s
+mystruct_t	dmesg/include/memalign.h	/^}mystruct_t;$/;"	t	typeref:struct:mystruct_s
+mystruct_t	epoll/include/memalign.h	/^}mystruct_t;$/;"	t	typeref:struct:mystruct_s
+mystruct_t	fgetc_fputc/include/memalign.h	/^}mystruct_t;$/;"	t	typeref:struct:mystruct_s
+mystruct_t	file_hole/include/memalign.h	/^}mystruct_t;$/;"	t	typeref:struct:mystruct_s
+mystruct_t	filter/include/memalign.h	/^}mystruct_t;$/;"	t	typeref:struct:mystruct_s
+mystruct_t	fmemopen/include/memalign.h	/^}mystruct_t;$/;"	t	typeref:struct:mystruct_s
+mystruct_t	fork/include/memalign.h	/^}mystruct_t;$/;"	t	typeref:struct:mystruct_s
+mystruct_t	getc/include/memalign.h	/^}mystruct_t;$/;"	t	typeref:struct:mystruct_s
+mystruct_t	getpid/include/getpid.h	/^}mystruct_t;$/;"	t	typeref:struct:mystruct_s
+mystruct_t	getppid/include/getpid.h	/^}mystruct_t;$/;"	t	typeref:struct:mystruct_s
+mystruct_t	kmp/include/memalign.h	/^}mystruct_t;$/;"	t	typeref:struct:mystruct_s
+mystruct_t	memalign/include/memalign.h	/^}mystruct_t;$/;"	t	typeref:struct:mystruct_s
+mystruct_t	memcpy/include/memalign.h	/^}mystruct_t;$/;"	t	typeref:struct:mystruct_s
+mystruct_t	mkstemp/include/memalign.h	/^}mystruct_t;$/;"	t	typeref:struct:mystruct_s
+mystruct_t	munmap/include/memalign.h	/^}mystruct_t;$/;"	t	typeref:struct:mystruct_s
+mystruct_t	openlog/include/memalign.h	/^}mystruct_t;$/;"	t	typeref:struct:mystruct_s
+mystruct_t	poll/access/include/memalign.h	/^}mystruct_t;$/;"	t	typeref:struct:mystruct_s
+mystruct_t	poll/include/select.h	/^}mystruct_t;$/;"	t	typeref:struct:mystruct_s
+mystruct_t	posix_memalign/include/memalign.h	/^}mystruct_t;$/;"	t	typeref:struct:mystruct_s
+mystruct_t	printk/include/memalign.h	/^}mystruct_t;$/;"	t	typeref:struct:mystruct_s
+mystruct_t	pthread_create/include/pthread_create.h	/^}mystruct_t;$/;"	t	typeref:struct:mystruct_s
+mystruct_t	select/include/select.h	/^}mystruct_t;$/;"	t	typeref:struct:mystruct_s
+mystruct_t	strlen/include/memalign.h	/^}mystruct_t;$/;"	t	typeref:struct:mystruct_s
+mystruct_t	strncmp/include/memalign.h	/^}mystruct_t;$/;"	t	typeref:struct:mystruct_s
+mystruct_t	strstr/include/memalign.h	/^}mystruct_t;$/;"	t	typeref:struct:mystruct_s
+mystruct_t	tmpnam/include/memalign.h	/^}mystruct_t;$/;"	t	typeref:struct:mystruct_s
+mystruct_t	type_file/include/memalign.h	/^}mystruct_t;$/;"	t	typeref:struct:mystruct_s
+mystruct_t	unlink/include/memalign.h	/^}mystruct_t;$/;"	t	typeref:struct:mystruct_s
+next	kmp/kmp.c	/^int next[32] = {-999};$/;"	v
+next	list_head/include/list.h	/^	struct list_head *next, *prev;$/;"	m	struct:list_head	typeref:struct:list_head::list_head
+next	list_head20190301/include/list.h	/^	struct list_head *next, *prev;$/;"	m	struct:list_head	typeref:struct:list_head::list_head
+person_s	list_head/include/list_head.h	/^typedef struct person_s{$/;"	s
+person_t	list_head/include/list_head.h	/^}person_t;$/;"	t	typeref:struct:person_s
+prev	list_head/include/list.h	/^	struct list_head *next, *prev;$/;"	m	struct:list_head	typeref:struct:list_head::
+prev	list_head20190301/include/list.h	/^	struct list_head *next, *prev;$/;"	m	struct:list_head	typeref:struct:list_head::
+print_next	kmp/kmp.c	/^void print_next(int next[], int n)$/;"	f
+sex	list_head/include/list_head.h	/^	char sex;$/;"	m	struct:person_s
+ssize_t	creat-open-write-read/include/copy.h	9;"	d
+ssize_t	fileio/include/copy.h	9;"	d
+ssize_t	link/include/copy.h	9;"	d
+ssize_t	open-read/include/copy.h	9;"	d
+task_create_hook	dmesg/dmesg.c	/^int task_create_hook(unsigned long clone_flags)$/;"	f
+thread_func	pthread_create/pthread_create.c	/^void thread_func()$/;"	f
+weight	list_head/include/list_head.h	/^	int weight;$/;"	m	struct:person_s

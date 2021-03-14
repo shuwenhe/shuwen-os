@@ -1,0 +1,28 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+AllDirs	Makefile	/^AllDirs := $(shell ls -R | grep '^\\.\/.*:$$' | awk '{gsub(":","");print}') . $/;"	m
+Bin	Makefile	/^Bin := o$/;"	m
+CC	Makefile	/^CC = gcc $/;"	m
+CPPFLAGS	Makefile	/^CPPFLAGS = $(foreach n,$(AllDirs) , -I$(n)) $/;"	m
+CXX	Makefile	/^CXX = g++ $/;"	m
+CXXFLAGS	Makefile	/^CXXFLAGS = -g -Wall $/;"	m
+Deps	Makefile	/^Deps := $(patsubst %.c,%.d, $(Sources)) $/;"	m
+DynamicLib	Makefile	/^DynamicLib := libyy.so $/;"	m
+HELL	Makefile	/^HELL = \/bin\/bash$/;"	m
+LDFLAGS	Makefile	/^LDFLAGS = -lstdc++ $/;"	m
+Objs	Makefile	/^Objs := $(patsubst %.c,%.o, $(Sources)) $/;"	m
+RM	Makefile	/^RM = rm -f $/;"	m
+Sources	Makefile	/^Sources := $(foreach n,$(AllDirs) , $(wildcard $(n)\/*.c)) $/;"	m
+StaticLib	Makefile	/^StaticLib := libyy.a $/;"	m
+get_next	kmp.c	/^void get_next(char *T, int *next)$/;"	f
+index_BM	kmp.c	/^int index_BM(char *S, char *T, int pos)$/;"	f
+index_kmp	kmp.c	/^int index_kmp(char *S, char *T, int pos)$/;"	f
+main	kmp.c	/^int main(void)$/;"	f
+mystruct_s	include/memalign.h	/^typedef struct mystruct_s{$/;"	s
+mystruct_t	include/memalign.h	/^}mystruct_t;$/;"	t	typeref:struct:mystruct_s
+next	kmp.c	/^int next[32] = {-999};$/;"	v
+print_next	kmp.c	/^void print_next(int next[], int n)$/;"	f
