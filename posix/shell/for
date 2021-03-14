@@ -1,0 +1,7 @@
+#!/bin/sh
+
+for foo in Shuwen Richard Ritchie
+do
+   echo $foo
+done
+exit 0
