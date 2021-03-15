@@ -1,0 +1,17 @@
+#!/bin/bash
+
+foo(){
+   local sample_text="local variable"  # 局部变量
+   echo "Function foo is executing" #2
+   echo "sample_text" #3
+}
+
+echo "script starting" #1
+echo "$sample_text" # no execute
+
+foo
+
+echo "script end"
+echo "$sample_text" # no execute
+
+exit 0

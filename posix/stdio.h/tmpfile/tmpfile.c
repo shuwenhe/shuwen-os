@@ -13,7 +13,7 @@ int main(){
 
     tmpfp = tmpfile(); // FILE	*tmpfile(void);
     if (tmpfp)
-        printf("Opened a temporary file OK!\nm");
+        printf("Opened a temporary file OK!\n");
     else
         perror("tmpfile");
     exit(0);

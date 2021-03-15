@@ -1,0 +1,12 @@
+#!/bin/bash
+
+# :冒号命令，是一个空命令。用于简化条件的逻辑，相当于true的一个别名，是内置命令，比true运行快
+# while: 实现了一个无限循环，代替了常见的while true
+rm  -f fred
+if [ -f fred ]; then
+: # 
+else
+echo file fred did not exist
+fi
+
+exit 0
