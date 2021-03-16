@@ -6,7 +6,7 @@ Objs := $(patsubst %.c,%.o, $(Sources))
 Deps := $(patsubst %.c,%.d, $(Sources)) 
 StaticLib := libyy.a 
 DynamicLib := libyy.so 
-Bin := o
+Bin := main
 
 AllLibs : $(Bin)
 
